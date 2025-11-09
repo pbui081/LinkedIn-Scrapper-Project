@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html>
+ <body>
+  <li>
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4334918928" data-impression-id="jobs-search-result-0" data-reference-id="/qv3waTNk5jUaillhU3WYg==" data-row="101" data-tracking-id="i92UjxcFlT3+CTt9n70yvw==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/virtual-data-entry-operator-work-from-home-at-pastene-y-rojo-administradores-4334918928?position=1&amp;pageNum=10&amp;refId=%2Fqv3waTNk5jUaillhU3WYg%3D%3D&amp;trackingId=i92UjxcFlT3%2BCTt9n70yvw%3D%3D">
+     <span class="sr-only">
+      Virtual Data Entry Operator Work From Home
+     </span>
+    </a>
+    <div class="search-entity-media">
+     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C560BAQHYy8hNpNBJeg/company-logo_100_100/company-logo_100_100/0/1631364582021?e=2147483647&amp;v=beta&amp;t=xjRGZnRiGKY0YK9Amtr6ESusPcqrOc3J6ETuIqg5Pdw" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+    </div>
+    <div class="base-search-card__info">
+     <h3 class="base-search-card__title">
+      Virtual Data Entry Operator Work From Home
+     </h3>
+     <h4 class="base-search-card__subtitle">
+      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://cl.linkedin.com/company/pastene-y-rojo-administradores?trk=public_jobs_jserp-result_job-search-card-subtitle">
+       Pastene y Rojo Administradores
+      </a>
+     </h4>
+     <!-- -->
+     <div class="base-search-card__metadata">
+      <span class="job-search-card__location">
+       Augusta, GA
+      </span>
+      <div class="job-posting-benefits text-sm">
+       <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/8zmuwb93gzlb935fk4ao4z779" data-svg-class-name="job-posting-benefits__icon-svg">
+       </icon>
+       <span class="job-posting-benefits__text">
+        Be an early applicant
+        <!-- -->
+       </span>
+      </div>
+      <time class="job-search-card__listdate--new" datetime="2025-11-09">
+       9 hours ago
+      </time>
+      <!-- -->
+     </div>
+    </div>
+    <!-- -->
+   </div>
+  </li>
+  <li>
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4334989064" data-impression-id="jobs-search-result-1" data-reference-id="/qv3waTNk5jUaillhU3WYg==" data-row="102" data-tracking-id="+4sdJLPmOkEbW5nYLkIkww==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/entry-level-data-entry-fully-remote-at-imiform-4334989064?position=2&amp;pageNum=10&amp;refId=%2Fqv3waTNk5jUaillhU3WYg%3D%3D&amp;trackingId=%2B4sdJLPmOkEbW5nYLkIkww%3D%3D">
+     <span class="sr-only">
+      Entry Level Data Entry (Fully Remote)
+     </span>
+    </a>
+    <div class="search-entity-media">
+     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C560BAQHUVsMfcFAQLw/company-logo_100_100/company-logo_100_100/0/1631390638841?e=2147483647&amp;v=beta&amp;t=jMi3akWP1W-YFc_MyCOykndGouN2X3DzbWhT1Zu0EiQ" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+    </div>
+    <div class="base-search-card__info">
+     <h3 class="base-search-card__title">
+      Entry Level Data Entry (Fully Remote)
+     </h3>
+     <h4 class="base-search-card__subtitle">
+      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://se.linkedin.com/company/imiform?trk=public_jobs_jserp-result_job-search-card-subtitle">
+       Imiform
+      </a>
+     </h4>
+     <!-- -->
+     <div class="base-search-card__metadata">
+      <span class="job-search-card__location">
+       West Chester, PA
+      </span>
+      <div class="job-posting-benefits text-sm">
+       <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/8zmuwb93gzlb935fk4ao4z779" data-svg-class-name="job-posting-benefits__icon-svg">
+       </icon>
+       <span class="job-posting-benefits__text">
+        Be an early applicant
+        <!-- -->
+       </span>
+      </div>
+      <time class="job-search-card__listdate--new" datetime="2025-11-09">
+       3 hours ago
+      </time>
+      <!-- -->
+     </div>
+    </div>
+    <!-- -->
+   </div>
+  </li>
+  <li>
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4335098128" data-impression-id="jobs-search-result-2" data-reference-id="/qv3waTNk5jUaillhU3WYg==" data-row="103" data-tracking-id="zkWgr8XjpQ3bSn+DOKVGvg==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/remote-data-entry-operator-needed-work-from-home-at-dom-interactive-4335098128?position=3&amp;pageNum=10&amp;refId=%2Fqv3waTNk5jUaillhU3WYg%3D%3D&amp;trackingId=zkWgr8XjpQ3bSn%2BDOKVGvg%3D%3D">
+     <span class="sr-only">
+      Remote Data Entry Operator Needed - Work From Home
+     </span>
+    </a>
+    <div class="search-entity-media">
+     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C560BAQEynxh6vQetIQ/company-logo_100_100/company-logo_100_100/0/1631345835994?e=2147483647&amp;v=beta&amp;t=EnxdYBBc6bx_p67oBnEeVYzlAkPqnNF0eJ-i5ELD3h4" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+    </div>
+    <div class="base-search-card__info">
+     <h3 class="base-search-card__title">
+      Remote Data Entry Operator Needed - Work From Home
+     </h3>
+     <h4 class="base-search-card__subtitle">
+      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/dom-interactive?trk=public_jobs_jserp-result_job-search-card-subtitle">
+       Dom Interactive
+      </a>
+     </h4>
+     <!-- -->
+     <div class="base-search-card__metadata">
+      <span class="job-search-card__location">
+       Tampa, FL
+      </span>
+      <div class="job-posting-benefits text-sm">
+       <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/8zmuwb93gzlb935fk4ao4z779" data-svg-class-name="job-posting-benefits__icon-svg">
+       </icon>
+       <span class="job-posting-benefits__text">
+        Be an early applicant
+        <!-- -->
+       </span>
+      </div>
+      <time class="job-search-card__listdate--new" datetime="2025-11-09">
+       3 hours ago
+      </time>
+      <!-- -->
+     </div>
+    </div>
+    <!-- -->
+   </div>
+  </li>
+  <li>
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4335107374" data-impression-id="jobs-search-result-3" data-reference-id="/qv3waTNk5jUaillhU3WYg==" data-row="104" data-tracking-id="Pph38hoFwQIGQ1XJbRtDZA==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/data-entry-clerk-typing-work-from-home-at-imiform-4335107374?position=4&amp;pageNum=10&amp;refId=%2Fqv3waTNk5jUaillhU3WYg%3D%3D&amp;trackingId=Pph38hoFwQIGQ1XJbRtDZA%3D%3D">
+     <span class="sr-only">
+      Data Entry Clerk / Typing - Work From Home
+     </span>
+    </a>
+    <div class="search-entity-media">
+     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C560BAQHUVsMfcFAQLw/company-logo_100_100/company-logo_100_100/0/1631390638841?e=2147483647&amp;v=beta&amp;t=jMi3akWP1W-YFc_MyCOykndGouN2X3DzbWhT1Zu0EiQ" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+    </div>
+    <div class="base-search-card__info">
+     <h3 class="base-search-card__title">
+      Data Entry Clerk / Typing - Work From Home
+     </h3>
+     <h4 class="base-search-card__subtitle">
+      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://se.linkedin.com/company/imiform?trk=public_jobs_jserp-result_job-search-card-subtitle">
+       Imiform
+      </a>
+     </h4>
+     <!-- -->
+     <div class="base-search-card__metadata">
+      <span class="job-search-card__location">
+       Las Vegas, NV
+      </span>
+      <div class="job-posting-benefits text-sm">
+       <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/8zmuwb93gzlb935fk4ao4z779" data-svg-class-name="job-posting-benefits__icon-svg">
+       </icon>
+       <span class="job-posting-benefits__text">
+        Be an early applicant
+        <!-- -->
+       </span>
+      </div>
+      <time class="job-search-card__listdate--new" datetime="2025-11-09">
+       3 hours ago
+      </time>
+      <!-- -->
+     </div>
+    </div>
+    <!-- -->
+   </div>
+  </li>
+  <li>
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4334958539" data-impression-id="jobs-search-result-4" data-reference-id="/qv3waTNk5jUaillhU3WYg==" data-row="105" data-tracking-id="G5dVoJuruStPGZNOVXghig==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/data-entry-clerk-typing-work-from-home-at-toimintakonsepti-4334958539?position=5&amp;pageNum=10&amp;refId=%2Fqv3waTNk5jUaillhU3WYg%3D%3D&amp;trackingId=G5dVoJuruStPGZNOVXghig%3D%3D">
+     <span class="sr-only">
+      Data Entry Clerk / Typing - Work From Home
+     </span>
+    </a>
+    <div class="search-entity-media">
+     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0BAQFK7evCbkleEw/company-logo_100_100/company-logo_100_100/0/1652774661493/toimintakonsepti_logo?e=2147483647&amp;v=beta&amp;t=TnaoIlxqufw7u3wTd9YSkz4Cf3CKr0wcxjxyUbrbvbU" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+    </div>
+    <div class="base-search-card__info">
+     <h3 class="base-search-card__title">
+      Data Entry Clerk / Typing - Work From Home
+     </h3>
+     <h4 class="base-search-card__subtitle">
+      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://fi.linkedin.com/company/toimintakonsepti?trk=public_jobs_jserp-result_job-search-card-subtitle">
+       ToimintaKonsepti
+      </a>
+     </h4>
+     <!-- -->
+     <div class="base-search-card__metadata">
+      <span class="job-search-card__location">
+       Las Vegas, NV
+      </span>
+      <div class="job-posting-benefits text-sm">
+       <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/8zmuwb93gzlb935fk4ao4z779" data-svg-class-name="job-posting-benefits__icon-svg">
+       </icon>
+       <span class="job-posting-benefits__text">
+        Be an early applicant
+        <!-- -->
+       </span>
+      </div>
+      <time class="job-search-card__listdate--new" datetime="2025-11-09">
+       9 hours ago
+      </time>
+      <!-- -->
+     </div>
+    </div>
+    <!-- -->
+   </div>
+  </li>
+  <li>
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4334978583" data-impression-id="jobs-search-result-5" data-reference-id="/qv3waTNk5jUaillhU3WYg==" data-row="106" data-tracking-id="PBTXBMRnBIbQ/0kWEJn5bA==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/virtual-data-entry-assistant-100%25-remote-at-kipseli-architects-4334978583?position=6&amp;pageNum=10&amp;refId=%2Fqv3waTNk5jUaillhU3WYg%3D%3D&amp;trackingId=PBTXBMRnBIbQ%2F0kWEJn5bA%3D%3D">
+     <span class="sr-only">
+      Virtual Data Entry Assistant (100% Remote)
+     </span>
+    </a>
+    <div class="search-entity-media">
+     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0BAQGaG9ZtAZatbA/company-logo_100_100/company-logo_100_100/0/1630645002081/kipseli_architects_logo?e=2147483647&amp;v=beta&amp;t=74nkyLkJ8T_n5Cxieaw4FdRH4z2Fuj-Zak9maEDlQUE" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+    </div>
+    <div class="base-search-card__info">
+     <h3 class="base-search-card__title">
+      Virtual Data Entry Assistant (100% Remote)
+     </h3>
+     <h4 class="base-search-card__subtitle">
+      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://gr.linkedin.com/company/kipseli-architects?trk=public_jobs_jserp-result_job-search-card-subtitle">
+       Kipseli Architects
+      </a>
+     </h4>
+     <!-- -->
+     <div class="base-search-card__metadata">
+      <span class="job-search-card__location">
+       Houston, TX
+      </span>
+      <div class="job-posting-benefits text-sm">
+       <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/8zmuwb93gzlb935fk4ao4z779" data-svg-class-name="job-posting-benefits__icon-svg">
+       </icon>
+       <span class="job-posting-benefits__text">
+        Be an early applicant
+        <!-- -->
+       </span>
+      </div>
+      <time class="job-search-card__listdate--new" datetime="2025-11-09">
+       9 hours ago
+      </time>
+      <!-- -->
+     </div>
+    </div>
+    <!-- -->
+   </div>
+  </li>
+  <li>
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4335048402" data-impression-id="jobs-search-result-6" data-reference-id="/qv3waTNk5jUaillhU3WYg==" data-row="107" data-tracking-id="8xfKL53jkkMzCV0zFLs2BA==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/data-entry-operator-work-from-home-at-trending-topic-comunicaci%C3%B3n-4335048402?position=7&amp;pageNum=10&amp;refId=%2Fqv3waTNk5jUaillhU3WYg%3D%3D&amp;trackingId=8xfKL53jkkMzCV0zFLs2BA%3D%3D">
+     <span class="sr-only">
+      Data Entry Operator - Work From Home
+     </span>
+    </a>
+    <div class="search-entity-media">
+     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C560BAQEEw5ZBflvkBw/company-logo_100_100/company-logo_100_100/0/1631328617118?e=2147483647&amp;v=beta&amp;t=guXXiHuPglAnF1Wt-r9V0kjyYlv6xyaHVTxipjcHF5U" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+    </div>
+    <div class="base-search-card__info">
+     <h3 class="base-search-card__title">
+      Data Entry Operator - Work From Home
+     </h3>
+     <h4 class="base-search-card__subtitle">
+      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/trending-topic-comunicaci%C3%B3n?trk=public_jobs_jserp-result_job-search-card-subtitle">
+       Trending Topic Comunicación
+      </a>
+     </h4>
+     <!-- -->
+     <div class="base-search-card__metadata">
+      <span class="job-search-card__location">
+       Augusta, GA
+      </span>
+      <div class="job-posting-benefits text-sm">
+       <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/8zmuwb93gzlb935fk4ao4z779" data-svg-class-name="job-posting-benefits__icon-svg">
+       </icon>
+       <span class="job-posting-benefits__text">
+        Be an early applicant
+        <!-- -->
+       </span>
+      </div>
+      <time class="job-search-card__listdate--new" datetime="2025-11-09">
+       9 hours ago
+      </time>
+      <!-- -->
+     </div>
+    </div>
+    <!-- -->
+   </div>
+  </li>
+  <li>
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4334899153" data-impression-id="jobs-search-result-7" data-reference-id="/qv3waTNk5jUaillhU3WYg==" data-row="108" data-tracking-id="IPRv7yPXiwqCKAQ/C5JHNQ==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/entry-level-data-entry-fully-remote-at-emailchecker-email-verify-ltd-4334899153?position=8&amp;pageNum=10&amp;refId=%2Fqv3waTNk5jUaillhU3WYg%3D%3D&amp;trackingId=IPRv7yPXiwqCKAQ%2FC5JHNQ%3D%3D">
+     <span class="sr-only">
+      Entry Level Data Entry (Fully Remote)
+     </span>
+    </a>
+    <div class="search-entity-media">
+     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C560BAQEPCC3BZ3qPuw/company-logo_100_100/company-logo_100_100/0/1631374886492?e=2147483647&amp;v=beta&amp;t=vjKDAEPbBpX-9dC7bvLtDISVBb7SCWiXnxrdyw4JfkY" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+    </div>
+    <div class="base-search-card__info">
+     <h3 class="base-search-card__title">
+      Entry Level Data Entry (Fully Remote)
+     </h3>
+     <h4 class="base-search-card__subtitle">
+      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://uk.linkedin.com/company/emailverify?trk=public_jobs_jserp-result_job-search-card-subtitle">
+       EmailChecker - (Email Verify Ltd)
+      </a>
+     </h4>
+     <!-- -->
+     <div class="base-search-card__metadata">
+      <span class="job-search-card__location">
+       West Chester, PA
+      </span>
+      <div class="job-posting-benefits text-sm">
+       <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/8zmuwb93gzlb935fk4ao4z779" data-svg-class-name="job-posting-benefits__icon-svg">
+       </icon>
+       <span class="job-posting-benefits__text">
+        Be an early applicant
+        <!-- -->
+       </span>
+      </div>
+      <time class="job-search-card__listdate--new" datetime="2025-11-09">
+       9 hours ago
+      </time>
+      <!-- -->
+     </div>
+    </div>
+    <!-- -->
+   </div>
+  </li>
+  <li>
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4334988487" data-impression-id="jobs-search-result-8" data-reference-id="/qv3waTNk5jUaillhU3WYg==" data-row="109" data-tracking-id="v/Uxhy3XFfzMCrTRGSXfcw==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/virtual-data-entry-assistant-remote-at-city-clusters-4334988487?position=9&amp;pageNum=10&amp;refId=%2Fqv3waTNk5jUaillhU3WYg%3D%3D&amp;trackingId=v%2FUxhy3XFfzMCrTRGSXfcw%3D%3D">
+     <span class="sr-only">
+      Virtual Data Entry Assistant (Remote)
+     </span>
+    </a>
+    <div class="search-entity-media">
+     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C560BAQFpy3UX0jTIMw/company-logo_100_100/company-logo_100_100/0/1631347014157?e=2147483647&amp;v=beta&amp;t=jrkAPionqRORvEtpb6YFBQRke2GhSfqTGIvkouqWzM0" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+    </div>
+    <div class="base-search-card__info">
+     <h3 class="base-search-card__title">
+      Virtual Data Entry Assistant (Remote)
+     </h3>
+     <h4 class="base-search-card__subtitle">
+      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://dk.linkedin.com/company/city-clusters?trk=public_jobs_jserp-result_job-search-card-subtitle">
+       City Clusters
+      </a>
+     </h4>
+     <!-- -->
+     <div class="base-search-card__metadata">
+      <span class="job-search-card__location">
+       Phoenix, AZ
+      </span>
+      <div class="job-posting-benefits text-sm">
+       <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/8zmuwb93gzlb935fk4ao4z779" data-svg-class-name="job-posting-benefits__icon-svg">
+       </icon>
+       <span class="job-posting-benefits__text">
+        Be an early applicant
+        <!-- -->
+       </span>
+      </div>
+      <time class="job-search-card__listdate--new" datetime="2025-11-09">
+       9 hours ago
+      </time>
+      <!-- -->
+     </div>
+    </div>
+    <!-- -->
+   </div>
+  </li>
+  <li>
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4334909621" data-impression-id="jobs-search-result-9" data-reference-id="/qv3waTNk5jUaillhU3WYg==" data-row="110" data-tracking-id="NZup4yvcpXLfQPWgOwQuEw==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/data-entry-typist-part-time-remote-at-qubiteq-4334909621?position=10&amp;pageNum=10&amp;refId=%2Fqv3waTNk5jUaillhU3WYg%3D%3D&amp;trackingId=NZup4yvcpXLfQPWgOwQuEw%3D%3D">
+     <span class="sr-only">
+      Data Entry - Typist Part-Time - Remote
+     </span>
+    </a>
+    <div class="search-entity-media">
+     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C510BAQH_60JeDtMXTw/company-logo_100_100/company-logo_100_100/0/1631373065984?e=2147483647&amp;v=beta&amp;t=42fOefSvtoU5nBbVltrtUITUi_sHwKGn9Tq7la5W9yQ" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+    </div>
+    <div class="base-search-card__info">
+     <h3 class="base-search-card__title">
+      Data Entry - Typist Part-Time - Remote
+     </h3>
+     <h4 class="base-search-card__subtitle">
+      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/qubiteq?trk=public_jobs_jserp-result_job-search-card-subtitle">
+       QUBITEQ
+      </a>
+     </h4>
+     <!-- -->
+     <div class="base-search-card__metadata">
+      <span class="job-search-card__location">
+       Austin, TX
+      </span>
+      <div class="job-posting-benefits text-sm">
+       <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/8zmuwb93gzlb935fk4ao4z779" data-svg-class-name="job-posting-benefits__icon-svg">
+       </icon>
+       <span class="job-posting-benefits__text">
+        Be an early applicant
+        <!-- -->
+       </span>
+      </div>
+      <time class="job-search-card__listdate--new" datetime="2025-11-09">
+       3 hours ago
+      </time>
+      <!-- -->
+     </div>
+    </div>
+    <!-- -->
+   </div>
+  </li>
+ </body>
+</html>
