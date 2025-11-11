@@ -2,8 +2,8 @@
 <html>
  <body>
   <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4321921903" data-impression-id="jobs-search-result-0" data-reference-id="CltMYkEz1/V3l3Gzq3ICpQ==" data-row="26" data-tracking-id="Cmt4+ZnqUSFDNFH+jv6EQg==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-google-4321921903?position=1&amp;pageNum=2&amp;refId=CltMYkEz1%2FV3l3Gzq3ICpQ%3D%3D&amp;trackingId=Cmt4%2BZnqUSFDNFH%2Bjv6EQg%3D%3D">
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4321921903" data-impression-id="jobs-search-result-0" data-reference-id="Wpjpn8QqQjNAdq+DPYtbYQ==" data-row="26" data-tracking-id="VA+r09D8L6D1U5lyvQgWIA==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-google-4321921903?position=1&amp;pageNum=2&amp;refId=Wpjpn8QqQjNAdq%2BDPYtbYQ%3D%3D&amp;trackingId=VA%2Br09D8L6D1U5lyvQgWIA%3D%3D">
      <span class="sr-only">
       Business Intelligence Analyst
      </span>
@@ -34,7 +34,7 @@
        </span>
       </div>
       <time class="job-search-card__listdate--new" datetime="2025-11-11">
-       1 hour ago
+       2 hours ago
       </time>
       <!-- -->
      </div>
@@ -43,8 +43,8 @@
    </div>
   </li>
   <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4335066364" data-impression-id="jobs-search-result-1" data-reference-id="CltMYkEz1/V3l3Gzq3ICpQ==" data-row="27" data-tracking-id="QT4wm1OadZNOYFwxxaL5+g==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/seeking-help-near-ucf-for-a-first-grader-at-wyndy-4335066364?position=2&amp;pageNum=2&amp;refId=CltMYkEz1%2FV3l3Gzq3ICpQ%3D%3D&amp;trackingId=QT4wm1OadZNOYFwxxaL5%2Bg%3D%3D">
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4335066364" data-impression-id="jobs-search-result-1" data-reference-id="Wpjpn8QqQjNAdq+DPYtbYQ==" data-row="27" data-tracking-id="2vg53xPbasGkU8zVx8FZqg==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/seeking-help-near-ucf-for-a-first-grader-at-wyndy-4335066364?position=2&amp;pageNum=2&amp;refId=Wpjpn8QqQjNAdq%2BDPYtbYQ%3D%3D&amp;trackingId=2vg53xPbasGkU8zVx8FZqg%3D%3D">
      <span class="sr-only">
       Seeking help near UCF for a first grader
      </span>
@@ -84,8 +84,8 @@
    </div>
   </li>
   <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4337318010" data-impression-id="jobs-search-result-2" data-reference-id="CltMYkEz1/V3l3Gzq3ICpQ==" data-row="28" data-tracking-id="vintfySiCcIZ0++zK5Kzog==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/python-web-developer-at-beaconfire-inc-4337318010?position=3&amp;pageNum=2&amp;refId=CltMYkEz1%2FV3l3Gzq3ICpQ%3D%3D&amp;trackingId=vintfySiCcIZ0%2B%2BzK5Kzog%3D%3D">
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4337318010" data-impression-id="jobs-search-result-2" data-reference-id="Wpjpn8QqQjNAdq+DPYtbYQ==" data-row="28" data-tracking-id="h2GrMGOg/umURMGX1Ghx+A==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/python-web-developer-at-beaconfire-inc-4337318010?position=3&amp;pageNum=2&amp;refId=Wpjpn8QqQjNAdq%2BDPYtbYQ%3D%3D&amp;trackingId=h2GrMGOg%2FumURMGX1Ghx%2BA%3D%3D">
      <span class="sr-only">
       Python Web Developer
      </span>
@@ -125,8 +125,8 @@
    </div>
   </li>
   <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4335340465" data-impression-id="jobs-search-result-3" data-reference-id="CltMYkEz1/V3l3Gzq3ICpQ==" data-row="29" data-tracking-id="9yMSs7bduOJp4C7n14R+4A==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/software-engineer-i-entry-level-at-mercor-4335340465?position=4&amp;pageNum=2&amp;refId=CltMYkEz1%2FV3l3Gzq3ICpQ%3D%3D&amp;trackingId=9yMSs7bduOJp4C7n14R%2B4A%3D%3D">
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4335340465" data-impression-id="jobs-search-result-3" data-reference-id="Wpjpn8QqQjNAdq+DPYtbYQ==" data-row="29" data-tracking-id="5EbMoY4ubMxZ1J3kIZ2JEg==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/software-engineer-i-entry-level-at-mercor-4335340465?position=4&amp;pageNum=2&amp;refId=Wpjpn8QqQjNAdq%2BDPYtbYQ%3D%3D&amp;trackingId=5EbMoY4ubMxZ1J3kIZ2JEg%3D%3D">
      <span class="sr-only">
       Software Engineer I (Entry-Level)
      </span>
@@ -159,8 +159,8 @@
    </div>
   </li>
   <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4335164077" data-impression-id="jobs-search-result-4" data-reference-id="CltMYkEz1/V3l3Gzq3ICpQ==" data-row="30" data-tracking-id="ICLwtSBT1LVpg4CMWXSPZw==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-valon-4335164077?position=5&amp;pageNum=2&amp;refId=CltMYkEz1%2FV3l3Gzq3ICpQ%3D%3D&amp;trackingId=ICLwtSBT1LVpg4CMWXSPZw%3D%3D">
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4335164077" data-impression-id="jobs-search-result-4" data-reference-id="Wpjpn8QqQjNAdq+DPYtbYQ==" data-row="30" data-tracking-id="0kUnpXRZCRsfBAlSa47PGQ==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-valon-4335164077?position=5&amp;pageNum=2&amp;refId=Wpjpn8QqQjNAdq%2BDPYtbYQ%3D%3D&amp;trackingId=0kUnpXRZCRsfBAlSa47PGQ%3D%3D">
      <span class="sr-only">
       Software Engineer - New Grad
      </span>
@@ -193,8 +193,8 @@
    </div>
   </li>
   <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4333676776" data-impression-id="jobs-search-result-5" data-reference-id="CltMYkEz1/V3l3Gzq3ICpQ==" data-row="31" data-tracking-id="YyJzpVw7fIZp0Rcipc+FlA==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/python-developer-at-radley-james-4333676776?position=6&amp;pageNum=2&amp;refId=CltMYkEz1%2FV3l3Gzq3ICpQ%3D%3D&amp;trackingId=YyJzpVw7fIZp0Rcipc%2BFlA%3D%3D">
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4333676776" data-impression-id="jobs-search-result-5" data-reference-id="Wpjpn8QqQjNAdq+DPYtbYQ==" data-row="31" data-tracking-id="6VcZN6YzNUodjhxSx1lE2Q==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/python-developer-at-radley-james-4333676776?position=6&amp;pageNum=2&amp;refId=Wpjpn8QqQjNAdq%2BDPYtbYQ%3D%3D&amp;trackingId=6VcZN6YzNUodjhxSx1lE2Q%3D%3D">
      <span class="sr-only">
       Python Developer
      </span>
@@ -234,8 +234,8 @@
    </div>
   </li>
   <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4335122814" data-impression-id="jobs-search-result-6" data-reference-id="CltMYkEz1/V3l3Gzq3ICpQ==" data-row="32" data-tracking-id="mIZDiNfpMvap0C8bbylz1g==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/software-engineer-i-entry-level-at-mercor-4335122814?position=7&amp;pageNum=2&amp;refId=CltMYkEz1%2FV3l3Gzq3ICpQ%3D%3D&amp;trackingId=mIZDiNfpMvap0C8bbylz1g%3D%3D">
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4335122814" data-impression-id="jobs-search-result-6" data-reference-id="Wpjpn8QqQjNAdq+DPYtbYQ==" data-row="32" data-tracking-id="lAakchmIEDcDm0zvhIr0yA==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/software-engineer-i-entry-level-at-mercor-4335122814?position=7&amp;pageNum=2&amp;refId=Wpjpn8QqQjNAdq%2BDPYtbYQ%3D%3D&amp;trackingId=lAakchmIEDcDm0zvhIr0yA%3D%3D">
      <span class="sr-only">
       Software Engineer I (Entry-Level)
      </span>
@@ -268,8 +268,8 @@
    </div>
   </li>
   <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4335152477" data-impression-id="jobs-search-result-7" data-reference-id="CltMYkEz1/V3l3Gzq3ICpQ==" data-row="33" data-tracking-id="/wjC3gcPe0hW+PYx1wsCOg==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/software-engineer-i-entry-level-at-mercor-4335152477?position=8&amp;pageNum=2&amp;refId=CltMYkEz1%2FV3l3Gzq3ICpQ%3D%3D&amp;trackingId=%2FwjC3gcPe0hW%2BPYx1wsCOg%3D%3D">
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4335152477" data-impression-id="jobs-search-result-7" data-reference-id="Wpjpn8QqQjNAdq+DPYtbYQ==" data-row="33" data-tracking-id="yUsNV+E+OG4D4nLkg3sxyA==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/software-engineer-i-entry-level-at-mercor-4335152477?position=8&amp;pageNum=2&amp;refId=Wpjpn8QqQjNAdq%2BDPYtbYQ%3D%3D&amp;trackingId=yUsNV%2BE%2BOG4D4nLkg3sxyA%3D%3D">
      <span class="sr-only">
       Software Engineer I (Entry-Level)
      </span>
@@ -302,8 +302,8 @@
    </div>
   </li>
   <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4335283506" data-impression-id="jobs-search-result-8" data-reference-id="CltMYkEz1/V3l3Gzq3ICpQ==" data-row="34" data-tracking-id="g7FquiYjxGFf3nkEBFgt4A==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-valon-4335283506?position=9&amp;pageNum=2&amp;refId=CltMYkEz1%2FV3l3Gzq3ICpQ%3D%3D&amp;trackingId=g7FquiYjxGFf3nkEBFgt4A%3D%3D">
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4335283506" data-impression-id="jobs-search-result-8" data-reference-id="Wpjpn8QqQjNAdq+DPYtbYQ==" data-row="34" data-tracking-id="mcb3G4r/OaQv41tqcoqGog==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-valon-4335283506?position=9&amp;pageNum=2&amp;refId=Wpjpn8QqQjNAdq%2BDPYtbYQ%3D%3D&amp;trackingId=mcb3G4r%2FOaQv41tqcoqGog%3D%3D">
      <span class="sr-only">
       Software Engineer - New Grad
      </span>
@@ -336,8 +336,8 @@
    </div>
   </li>
   <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4334849589" data-impression-id="jobs-search-result-9" data-reference-id="CltMYkEz1/V3l3Gzq3ICpQ==" data-row="35" data-tracking-id="dUkmfV8zXS5KsdbBu5f69w==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/data-analyst-at-prescient-national%C2%AE-4334849589?position=10&amp;pageNum=2&amp;refId=CltMYkEz1%2FV3l3Gzq3ICpQ%3D%3D&amp;trackingId=dUkmfV8zXS5KsdbBu5f69w%3D%3D">
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4334849589" data-impression-id="jobs-search-result-9" data-reference-id="Wpjpn8QqQjNAdq+DPYtbYQ==" data-row="35" data-tracking-id="9QIuRTIhehvY5bWWOTLWBg==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/data-analyst-at-prescient-national%C2%AE-4334849589?position=10&amp;pageNum=2&amp;refId=Wpjpn8QqQjNAdq%2BDPYtbYQ%3D%3D&amp;trackingId=9QIuRTIhehvY5bWWOTLWBg%3D%3D">
      <span class="sr-only">
       Data Analyst
      </span>
