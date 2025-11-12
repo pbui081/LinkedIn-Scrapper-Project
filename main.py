@@ -26,9 +26,16 @@ def link_to_soup(link, file_to_write) -> BeautifulSoup:
         exit(-1)
         pass
 
-
-def grab_soup_attributes():
+def grab_job_desc(soup_object : BeautifulSoup) -> str:
+    try:
+        job_description = soup_object.find(class_ = "show-more-less-html__markup")
+        return job_description.get_text(" ", strip=True)
+    except:
+        print("Error has occured while grabbing job description")
+        exit(-1)
     pass
+
+
 
 ### Beautiful Soup testing below
 
@@ -52,13 +59,11 @@ for i in listed_span:
     link_list.append(job_link) # appends to list
 
 
-
+job_list = []
 
 print("--------- Now grabbing the job description from the first + second linked job ---------")
 first_job = link_list[0]
 second_job = link_list[1]
-
-print(link_list)
 
 grabbing_job_website = requests.get(first_job)
 converting_job_link = BeautifulSoup(grabbing_job_website.text, 'lxml')
@@ -68,23 +73,20 @@ second_soup = link_to_soup(second_job, "second_job_html.txt")
 
 print("__________________________________________________________")
 #job 1
-job_desc = first_soup.find(class_ = "show-more-less-html__markup")
-job_desc_all = first_soup.find_all(class_ = "show-more-less-html__markup")
-
-print(job_desc)
-# when using .find() and accessing the attribute of the results, we must ensure that the members of the object
-# are to be non-None, when using find_all(), it is guaranteed to return a type of something. 
-if job_desc is not None:
-    print(type(job_desc.attrs.get('p')))
-else:
-    print("none found")
-print(type(job_desc_all[0]).attrs.get('p'))
-print(type(first_soup))
-
+print(grab_job_desc(first_soup))
 
 print("__________________________________________________________")
 
 
+#job 2 
+print(grab_job_desc(second_soup))
+
+
+    
+
+print("__________________________________________________________")
+
+print(job_list)
 
 #show-more-less-html__markup to find the job description block 
 
