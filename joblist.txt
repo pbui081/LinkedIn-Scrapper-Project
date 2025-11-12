@@ -2,28 +2,28 @@
 <html>
  <body>
   <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4321921903" data-impression-id="jobs-search-result-0" data-reference-id="Wpjpn8QqQjNAdq+DPYtbYQ==" data-row="26" data-tracking-id="VA+r09D8L6D1U5lyvQgWIA==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-google-4321921903?position=1&amp;pageNum=2&amp;refId=Wpjpn8QqQjNAdq%2BDPYtbYQ%3D%3D&amp;trackingId=VA%2Br09D8L6D1U5lyvQgWIA%3D%3D">
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4335374943" data-impression-id="jobs-search-result-0" data-reference-id="rhJZfI4BC/mogeJ6xZabQQ==" data-row="26" data-tracking-id="UKFZB5CesH8IP+UGhzZqbQ==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/institutional-equity-derivatives-sales-%E2%80%93-analyst-associate-at-morgan-stanley-4335374943?position=1&amp;pageNum=2&amp;refId=rhJZfI4BC%2FmogeJ6xZabQQ%3D%3D&amp;trackingId=UKFZB5CesH8IP%2BUGhzZqbQ%3D%3D">
      <span class="sr-only">
-      Business Intelligence Analyst
+      Institutional Equity Derivatives Sales – Analyst/Associate
      </span>
     </a>
     <div class="search-entity-media">
-     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_100_100/B4EZmhegXHGcAU-/0/1759350753990/google_logo?e=2147483647&amp;v=beta&amp;t=zYekdwB_mnXarr4wa4kw8w3Jikm8YaakM5aiDyAyvP0" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C560BAQFtDpMvYgbIwA/company-logo_100_100/company-logo_100_100/0/1677778128461/morgan_stanley_logo?e=2147483647&amp;v=beta&amp;t=f7aAdfTeMpLPSwCGS8zQ4DtuVYuEuN3OSYQ8ksHvOsI" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
     </div>
     <div class="base-search-card__info">
      <h3 class="base-search-card__title">
-      Business Intelligence Analyst
+      Institutional Equity Derivatives Sales – Analyst/Associate
      </h3>
      <h4 class="base-search-card__subtitle">
-      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/google?trk=public_jobs_jserp-result_job-search-card-subtitle">
-       Google
+      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/morgan-stanley?trk=public_jobs_jserp-result_job-search-card-subtitle">
+       Morgan Stanley
       </a>
      </h4>
      <!-- -->
      <div class="base-search-card__metadata">
       <span class="job-search-card__location">
-       New York, NY
+       San Francisco, CA
       </span>
       <div class="job-posting-benefits text-sm">
        <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/3p1v0uhy7uq0cm5zdvzp4eo18" data-svg-class-name="job-posting-benefits__icon-svg">
@@ -34,7 +34,7 @@
        </span>
       </div>
       <time class="job-search-card__listdate--new" datetime="2025-11-11">
-       2 hours ago
+       16 hours ago
       </time>
       <!-- -->
      </div>
@@ -43,38 +43,38 @@
    </div>
   </li>
   <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4335066364" data-impression-id="jobs-search-result-1" data-reference-id="Wpjpn8QqQjNAdq+DPYtbYQ==" data-row="27" data-tracking-id="2vg53xPbasGkU8zVx8FZqg==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/seeking-help-near-ucf-for-a-first-grader-at-wyndy-4335066364?position=2&amp;pageNum=2&amp;refId=Wpjpn8QqQjNAdq%2BDPYtbYQ%3D%3D&amp;trackingId=2vg53xPbasGkU8zVx8FZqg%3D%3D">
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4334139127" data-impression-id="jobs-search-result-1" data-reference-id="rhJZfI4BC/mogeJ6xZabQQ==" data-row="27" data-tracking-id="b3zVuu0raDQpXmO6KGL+JA==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/python-developer-at-flexton-inc-4334139127?position=2&amp;pageNum=2&amp;refId=rhJZfI4BC%2FmogeJ6xZabQQ%3D%3D&amp;trackingId=b3zVuu0raDQpXmO6KGL%2BJA%3D%3D">
      <span class="sr-only">
-      Seeking help near UCF for a first grader
+      Python Developer
      </span>
     </a>
     <div class="search-entity-media">
-     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/D4E0BAQGVgpdSUMOBwQ/company-logo_100_100/company-logo_100_100/0/1730489783993/wyndy_logo?e=2147483647&amp;v=beta&amp;t=8S-DTvDlxgTD0LCEWM1y6jXRayD1mmiZ0BP74Brwdh0" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0BAQEZ-TTzjvZWdQ/company-logo_100_100/company-logo_100_100/0/1631315867815?e=2147483647&amp;v=beta&amp;t=puU3Umy284lNeC98Z2My0PKq5lNh2N1-VPmloglWHvM" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
     </div>
     <div class="base-search-card__info">
      <h3 class="base-search-card__title">
-      Seeking help near UCF for a first grader
+      Python Developer
      </h3>
      <h4 class="base-search-card__subtitle">
-      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/wyndy?trk=public_jobs_jserp-result_job-search-card-subtitle">
-       Wyndy
+      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/flexton-inc?trk=public_jobs_jserp-result_job-search-card-subtitle">
+       Flexton Inc.
       </a>
      </h4>
      <!-- -->
      <div class="base-search-card__metadata">
       <span class="job-search-card__location">
-       Orlando, FL
+       Cincinnati, OH
       </span>
       <div class="job-posting-benefits text-sm">
-       <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/8zmuwb93gzlb935fk4ao4z779" data-svg-class-name="job-posting-benefits__icon-svg">
+       <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/3p1v0uhy7uq0cm5zdvzp4eo18" data-svg-class-name="job-posting-benefits__icon-svg">
        </icon>
        <span class="job-posting-benefits__text">
-        Be an early applicant
+        Actively Hiring
         <!-- -->
        </span>
       </div>
-      <time class="job-search-card__listdate" datetime="2025-11-09">
+      <time class="job-search-card__listdate" datetime="2025-11-10">
        1 day ago
       </time>
       <!-- -->
@@ -84,97 +84,22 @@
    </div>
   </li>
   <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4337318010" data-impression-id="jobs-search-result-2" data-reference-id="Wpjpn8QqQjNAdq+DPYtbYQ==" data-row="28" data-tracking-id="h2GrMGOg/umURMGX1Ghx+A==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/python-web-developer-at-beaconfire-inc-4337318010?position=3&amp;pageNum=2&amp;refId=Wpjpn8QqQjNAdq%2BDPYtbYQ%3D%3D&amp;trackingId=h2GrMGOg%2FumURMGX1Ghx%2BA%3D%3D">
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4335586626" data-impression-id="jobs-search-result-2" data-reference-id="rhJZfI4BC/mogeJ6xZabQQ==" data-row="28" data-tracking-id="PHJG6Y/b7LVS0hiEL0pvIg==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/inviting-senior-data-engineers-at-fusemachines-4335586626?position=3&amp;pageNum=2&amp;refId=rhJZfI4BC%2FmogeJ6xZabQQ%3D%3D&amp;trackingId=PHJG6Y%2Fb7LVS0hiEL0pvIg%3D%3D">
      <span class="sr-only">
-      Python Web Developer
+      Inviting Senior Data Engineers
      </span>
     </a>
     <div class="search-entity-media">
-     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C560BAQEgZyD0JY8dTA/company-logo_100_100/company-logo_100_100/0/1630645938186?e=2147483647&amp;v=beta&amp;t=rtUNZayNFddz2ZEVUXEZVkDrnx6z-sh2A6Z8ZQvTSqc" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/D560BAQFpBPKrtFEh_A/company-logo_100_100/company-logo_100_100/0/1682490056011/fusemachines_logo?e=2147483647&amp;v=beta&amp;t=diqiyHIQK7ONJRADYZFty5f5Oc9QHAlwxeQ4ElJ0bn8" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
     </div>
     <div class="base-search-card__info">
      <h3 class="base-search-card__title">
-      Python Web Developer
+      Inviting Senior Data Engineers
      </h3>
      <h4 class="base-search-card__subtitle">
-      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/beaconfireinc?trk=public_jobs_jserp-result_job-search-card-subtitle">
-       BeaconFire Inc.
-      </a>
-     </h4>
-     <!-- -->
-     <div class="base-search-card__metadata">
-      <span class="job-search-card__location">
-       New Jersey, United States
-      </span>
-      <div class="job-posting-benefits text-sm">
-       <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/3p1v0uhy7uq0cm5zdvzp4eo18" data-svg-class-name="job-posting-benefits__icon-svg">
-       </icon>
-       <span class="job-posting-benefits__text">
-        Actively Hiring
-             +4 benefits
-       </span>
-      </div>
-      <time class="job-search-card__listdate--new" datetime="2025-11-10">
-       3 hours ago
-      </time>
-      <!-- -->
-     </div>
-    </div>
-    <!-- -->
-   </div>
-  </li>
-  <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4335340465" data-impression-id="jobs-search-result-3" data-reference-id="Wpjpn8QqQjNAdq+DPYtbYQ==" data-row="29" data-tracking-id="5EbMoY4ubMxZ1J3kIZ2JEg==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/software-engineer-i-entry-level-at-mercor-4335340465?position=4&amp;pageNum=2&amp;refId=Wpjpn8QqQjNAdq%2BDPYtbYQ%3D%3D&amp;trackingId=5EbMoY4ubMxZ1J3kIZ2JEg%3D%3D">
-     <span class="sr-only">
-      Software Engineer I (Entry-Level)
-     </span>
-    </a>
-    <div class="search-entity-media">
-     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/D4E0BAQH9Gn3NF9HQTQ/company-logo_100_100/company-logo_100_100/0/1698629074329/mercor_io_logo?e=2147483647&amp;v=beta&amp;t=cpUXGkaxCmU_aMXDBhGHPvUQNQ5X6fjwL35Xx2sFTo0" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
-    </div>
-    <div class="base-search-card__info">
-     <h3 class="base-search-card__title">
-      Software Engineer I (Entry-Level)
-     </h3>
-     <h4 class="base-search-card__subtitle">
-      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/mercor-ai?trk=public_jobs_jserp-result_job-search-card-subtitle">
-       Mercor
-      </a>
-     </h4>
-     <!-- -->
-     <div class="base-search-card__metadata">
-      <span class="job-search-card__location">
-       United States
-      </span>
-      <!-- -->
-      <time class="job-search-card__listdate--new" datetime="2025-11-10">
-       15 hours ago
-      </time>
-      <!-- -->
-     </div>
-    </div>
-    <!-- -->
-   </div>
-  </li>
-  <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4335164077" data-impression-id="jobs-search-result-4" data-reference-id="Wpjpn8QqQjNAdq+DPYtbYQ==" data-row="30" data-tracking-id="0kUnpXRZCRsfBAlSa47PGQ==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-valon-4335164077?position=5&amp;pageNum=2&amp;refId=Wpjpn8QqQjNAdq%2BDPYtbYQ%3D%3D&amp;trackingId=0kUnpXRZCRsfBAlSa47PGQ%3D%3D">
-     <span class="sr-only">
-      Software Engineer - New Grad
-     </span>
-    </a>
-    <div class="search-entity-media">
-     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C4D0BAQFU6uzuDP-UFA/company-logo_100_100/company-logo_100_100/0/1630522503124/valon_technologies_logo?e=2147483647&amp;v=beta&amp;t=_WGjJpGFmUVOH7Z7pADHAORIk4_isfzorokghh0RyKc" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
-    </div>
-    <div class="base-search-card__info">
-     <h3 class="base-search-card__title">
-      Software Engineer - New Grad
-     </h3>
-     <h4 class="base-search-card__subtitle">
-      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/valon-technologies?trk=public_jobs_jserp-result_job-search-card-subtitle">
-       Valon
+      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/fusemachines?trk=public_jobs_jserp-result_job-search-card-subtitle">
+       Fusemachines
       </a>
      </h4>
      <!-- -->
@@ -182,8 +107,15 @@
       <span class="job-search-card__location">
        New York, NY
       </span>
-      <!-- -->
-      <time class="job-search-card__listdate--new" datetime="2025-11-10">
+      <div class="job-posting-benefits text-sm">
+       <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/8zmuwb93gzlb935fk4ao4z779" data-svg-class-name="job-posting-benefits__icon-svg">
+       </icon>
+       <span class="job-posting-benefits__text">
+        Be an early applicant
+        <!-- -->
+       </span>
+      </div>
+      <time class="job-search-card__listdate--new" datetime="2025-11-11">
        11 hours ago
       </time>
       <!-- -->
@@ -193,39 +125,114 @@
    </div>
   </li>
   <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4333676776" data-impression-id="jobs-search-result-5" data-reference-id="Wpjpn8QqQjNAdq+DPYtbYQ==" data-row="31" data-tracking-id="6VcZN6YzNUodjhxSx1lE2Q==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/python-developer-at-radley-james-4333676776?position=6&amp;pageNum=2&amp;refId=Wpjpn8QqQjNAdq%2BDPYtbYQ%3D%3D&amp;trackingId=6VcZN6YzNUodjhxSx1lE2Q%3D%3D">
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4335020294" data-impression-id="jobs-search-result-3" data-reference-id="rhJZfI4BC/mogeJ6xZabQQ==" data-row="29" data-tracking-id="jdjYoBSSKQ8catwuxR+/QA==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/python-developer-at-bespoke-technologies-inc-4335020294?position=4&amp;pageNum=2&amp;refId=rhJZfI4BC%2FmogeJ6xZabQQ%3D%3D&amp;trackingId=jdjYoBSSKQ8catwuxR%2B%2FQA%3D%3D">
      <span class="sr-only">
       Python Developer
      </span>
     </a>
     <div class="search-entity-media">
-     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/D4E0BAQEe5zKnq2XRhw/company-logo_100_100/company-logo_100_100/0/1704185346920/radley_james_logo?e=2147483647&amp;v=beta&amp;t=VGGlz2OA63hb3q4uR5rsyWixtX0ofO1m_9TmPZMMs48" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C560BAQEexq_Je5v32g/company-logo_100_100/company-logo_100_100/0/1630640484955?e=2147483647&amp;v=beta&amp;t=Dabbmd0bzywHIvK1jpoRJ6Bdfaw4vymPBtFezXANOZg" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
     </div>
     <div class="base-search-card__info">
      <h3 class="base-search-card__title">
       Python Developer
      </h3>
      <h4 class="base-search-card__subtitle">
-      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://uk.linkedin.com/company/radley-james?trk=public_jobs_jserp-result_job-search-card-subtitle">
-       Radley James
+      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/bespoketechinc?trk=public_jobs_jserp-result_job-search-card-subtitle">
+       Bespoke Technologies, Inc.
       </a>
      </h4>
      <!-- -->
      <div class="base-search-card__metadata">
       <span class="job-search-card__location">
-       Chicago, IL
+       Chantilly, VA
+      </span>
+      <div class="job-posting-benefits text-sm">
+       <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/8zmuwb93gzlb935fk4ao4z779" data-svg-class-name="job-posting-benefits__icon-svg">
+       </icon>
+       <span class="job-posting-benefits__text">
+        Be an early applicant
+        <!-- -->
+       </span>
+      </div>
+      <time class="job-search-card__listdate" datetime="2025-11-10">
+       1 day ago
+      </time>
+      <!-- -->
+     </div>
+    </div>
+    <!-- -->
+   </div>
+  </li>
+  <li>
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4335325796" data-impression-id="jobs-search-result-4" data-reference-id="rhJZfI4BC/mogeJ6xZabQQ==" data-row="30" data-tracking-id="JzEuXJX8tkqMHXcGx8j/6w==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/founding-engineer-ai-at-muro-ai-4335325796?position=5&amp;pageNum=2&amp;refId=rhJZfI4BC%2FmogeJ6xZabQQ%3D%3D&amp;trackingId=JzEuXJX8tkqMHXcGx8j%2F6w%3D%3D">
+     <span class="sr-only">
+      Founding Engineer -AI
+     </span>
+    </a>
+    <div class="search-entity-media">
+     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/D4E0BAQGftQHFc42d_g/company-logo_100_100/B4EZYYeyJbGYAQ-/0/1744167445378/muroai_logo?e=2147483647&amp;v=beta&amp;t=Cc87GCXCzrzSeC5owONkoD2AfJhLV5Uh_HmkiO3XlnI" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+    </div>
+    <div class="base-search-card__info">
+     <h3 class="base-search-card__title">
+      Founding Engineer -AI
+     </h3>
+     <h4 class="base-search-card__subtitle">
+      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/muroai?trk=public_jobs_jserp-result_job-search-card-subtitle">
+       Muro AI
+      </a>
+     </h4>
+     <!-- -->
+     <div class="base-search-card__metadata">
+      <span class="job-search-card__location">
+       San Francisco Bay Area
+      </span>
+      <!-- -->
+      <time class="job-search-card__listdate" datetime="2025-11-10">
+       1 day ago
+      </time>
+      <!-- -->
+     </div>
+    </div>
+    <!-- -->
+   </div>
+  </li>
+  <li>
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4339770387" data-impression-id="jobs-search-result-5" data-reference-id="rhJZfI4BC/mogeJ6xZabQQ==" data-row="31" data-tracking-id="iaePbTth8MsTCs8R5Iufng==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/data-engineer-at-jetblue-4339770387?position=6&amp;pageNum=2&amp;refId=rhJZfI4BC%2FmogeJ6xZabQQ%3D%3D&amp;trackingId=iaePbTth8MsTCs8R5Iufng%3D%3D">
+     <span class="sr-only">
+      Data Engineer
+     </span>
+    </a>
+    <div class="search-entity-media">
+     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/D4E0BAQE8Ao2ZA_QjNQ/company-logo_100_100/company-logo_100_100/0/1719235850843/jetblue_logo?e=2147483647&amp;v=beta&amp;t=lUz0Ihc5RtLCu6B4IqTZuNmD2mybg2LMotp2Z9dsH0A" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+    </div>
+    <div class="base-search-card__info">
+     <h3 class="base-search-card__title">
+      Data Engineer
+     </h3>
+     <h4 class="base-search-card__subtitle">
+      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/jetblue?trk=public_jobs_jserp-result_job-search-card-subtitle">
+       JetBlue
+      </a>
+     </h4>
+     <!-- -->
+     <div class="base-search-card__metadata">
+      <span class="job-search-card__location">
+       New York, NY
       </span>
       <div class="job-posting-benefits text-sm">
        <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/3p1v0uhy7uq0cm5zdvzp4eo18" data-svg-class-name="job-posting-benefits__icon-svg">
        </icon>
        <span class="job-posting-benefits__text">
         Actively Hiring
-             +12 benefits
+        <!-- -->
        </span>
       </div>
-      <time class="job-search-card__listdate" datetime="2025-11-08">
-       2 days ago
+      <time class="job-search-card__listdate" datetime="2025-11-10">
+       1 day ago
       </time>
       <!-- -->
      </div>
@@ -234,8 +241,8 @@
    </div>
   </li>
   <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4335122814" data-impression-id="jobs-search-result-6" data-reference-id="Wpjpn8QqQjNAdq+DPYtbYQ==" data-row="32" data-tracking-id="lAakchmIEDcDm0zvhIr0yA==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/software-engineer-i-entry-level-at-mercor-4335122814?position=7&amp;pageNum=2&amp;refId=Wpjpn8QqQjNAdq%2BDPYtbYQ%3D%3D&amp;trackingId=lAakchmIEDcDm0zvhIr0yA%3D%3D">
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4335272148" data-impression-id="jobs-search-result-6" data-reference-id="rhJZfI4BC/mogeJ6xZabQQ==" data-row="32" data-tracking-id="DfZwo7zQLZ4JpjqOhOytEg==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/software-engineer-i-entry-level-at-mercor-4335272148?position=7&amp;pageNum=2&amp;refId=rhJZfI4BC%2FmogeJ6xZabQQ%3D%3D&amp;trackingId=DfZwo7zQLZ4JpjqOhOytEg%3D%3D">
      <span class="sr-only">
       Software Engineer I (Entry-Level)
      </span>
@@ -258,8 +265,8 @@
        United States
       </span>
       <!-- -->
-      <time class="job-search-card__listdate--new" datetime="2025-11-10">
-       15 hours ago
+      <time class="job-search-card__listdate" datetime="2025-11-10">
+       1 day ago
       </time>
       <!-- -->
      </div>
@@ -268,32 +275,32 @@
    </div>
   </li>
   <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4335152477" data-impression-id="jobs-search-result-7" data-reference-id="Wpjpn8QqQjNAdq+DPYtbYQ==" data-row="33" data-tracking-id="yUsNV+E+OG4D4nLkg3sxyA==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/software-engineer-i-entry-level-at-mercor-4335152477?position=8&amp;pageNum=2&amp;refId=Wpjpn8QqQjNAdq%2BDPYtbYQ%3D%3D&amp;trackingId=yUsNV%2BE%2BOG4D4nLkg3sxyA%3D%3D">
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4335424686" data-impression-id="jobs-search-result-7" data-reference-id="rhJZfI4BC/mogeJ6xZabQQ==" data-row="33" data-tracking-id="xnnMccLOOEoke1Wqe2jAeQ==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/investment-analyst-private-equity-at-monica-m-posada-llc-4335424686?position=8&amp;pageNum=2&amp;refId=rhJZfI4BC%2FmogeJ6xZabQQ%3D%3D&amp;trackingId=xnnMccLOOEoke1Wqe2jAeQ%3D%3D">
      <span class="sr-only">
-      Software Engineer I (Entry-Level)
+      Investment Analyst - Private Equity
      </span>
     </a>
     <div class="search-entity-media">
-     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/D4E0BAQH9Gn3NF9HQTQ/company-logo_100_100/company-logo_100_100/0/1698629074329/mercor_io_logo?e=2147483647&amp;v=beta&amp;t=cpUXGkaxCmU_aMXDBhGHPvUQNQ5X6fjwL35Xx2sFTo0" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/D4E0BAQF2w1qAa3oHyg/company-logo_100_100/B4EZpU5IclIQAQ-/0/1762360855176/monicamposada_logo?e=2147483647&amp;v=beta&amp;t=eZHiR5fOr-pZ-5Ip33n47SbVuNCTDgtaGZDoK-gNPpU" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
     </div>
     <div class="base-search-card__info">
      <h3 class="base-search-card__title">
-      Software Engineer I (Entry-Level)
+      Investment Analyst - Private Equity
      </h3>
      <h4 class="base-search-card__subtitle">
-      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/mercor-ai?trk=public_jobs_jserp-result_job-search-card-subtitle">
-       Mercor
+      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/monicamposada?trk=public_jobs_jserp-result_job-search-card-subtitle">
+       Monica M. Posada, LLC.
       </a>
      </h4>
      <!-- -->
      <div class="base-search-card__metadata">
       <span class="job-search-card__location">
-       United States
+       Boca Raton, FL
       </span>
       <!-- -->
-      <time class="job-search-card__listdate--new" datetime="2025-11-10">
-       15 hours ago
+      <time class="job-search-card__listdate--new" datetime="2025-11-11">
+       16 hours ago
       </time>
       <!-- -->
      </div>
@@ -302,73 +309,73 @@
    </div>
   </li>
   <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4335283506" data-impression-id="jobs-search-result-8" data-reference-id="Wpjpn8QqQjNAdq+DPYtbYQ==" data-row="34" data-tracking-id="mcb3G4r/OaQv41tqcoqGog==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-valon-4335283506?position=9&amp;pageNum=2&amp;refId=Wpjpn8QqQjNAdq%2BDPYtbYQ%3D%3D&amp;trackingId=mcb3G4r%2FOaQv41tqcoqGog%3D%3D">
-     <span class="sr-only">
-      Software Engineer - New Grad
-     </span>
-    </a>
-    <div class="search-entity-media">
-     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C4D0BAQFU6uzuDP-UFA/company-logo_100_100/company-logo_100_100/0/1630522503124/valon_technologies_logo?e=2147483647&amp;v=beta&amp;t=_WGjJpGFmUVOH7Z7pADHAORIk4_isfzorokghh0RyKc" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
-    </div>
-    <div class="base-search-card__info">
-     <h3 class="base-search-card__title">
-      Software Engineer - New Grad
-     </h3>
-     <h4 class="base-search-card__subtitle">
-      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/valon-technologies?trk=public_jobs_jserp-result_job-search-card-subtitle">
-       Valon
-      </a>
-     </h4>
-     <!-- -->
-     <div class="base-search-card__metadata">
-      <span class="job-search-card__location">
-       San Francisco, CA
-      </span>
-      <!-- -->
-      <time class="job-search-card__listdate--new" datetime="2025-11-10">
-       11 hours ago
-      </time>
-      <!-- -->
-     </div>
-    </div>
-    <!-- -->
-   </div>
-  </li>
-  <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4334849589" data-impression-id="jobs-search-result-9" data-reference-id="Wpjpn8QqQjNAdq+DPYtbYQ==" data-row="35" data-tracking-id="9QIuRTIhehvY5bWWOTLWBg==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/data-analyst-at-prescient-national%C2%AE-4334849589?position=10&amp;pageNum=2&amp;refId=Wpjpn8QqQjNAdq%2BDPYtbYQ%3D%3D&amp;trackingId=9QIuRTIhehvY5bWWOTLWBg%3D%3D">
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4335386108" data-impression-id="jobs-search-result-8" data-reference-id="rhJZfI4BC/mogeJ6xZabQQ==" data-row="34" data-tracking-id="LiuY0Dwm9xccvzJ8GBbRZw==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/data-analyst-at-hackajob-4335386108?position=9&amp;pageNum=2&amp;refId=rhJZfI4BC%2FmogeJ6xZabQQ%3D%3D&amp;trackingId=LiuY0Dwm9xccvzJ8GBbRZw%3D%3D">
      <span class="sr-only">
       Data Analyst
      </span>
     </a>
     <div class="search-entity-media">
-     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C4D0BAQGzR1WP2K3VNw/company-logo_100_100/company-logo_100_100/0/1630556806861/synergy_agents_logo?e=2147483647&amp;v=beta&amp;t=MJxhByQoRui85yJdk8nQO7UEFcwlIZL8GrAmUkdg3CA" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/D560BAQF6HYG6dvSK0Q/company-logo_100_100/company-logo_100_100/0/1683088716419/hackajob_logo?e=2147483647&amp;v=beta&amp;t=ZrLVrP8p4YgmECct6BRcAFp6DcEmFZGqFJoXL4JCKzA" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
     </div>
     <div class="base-search-card__info">
      <h3 class="base-search-card__title">
       Data Analyst
      </h3>
      <h4 class="base-search-card__subtitle">
-      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/prescientnationalinsurance?trk=public_jobs_jserp-result_job-search-card-subtitle">
-       Prescient National®
+      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://uk.linkedin.com/company/hackajob?trk=public_jobs_jserp-result_job-search-card-subtitle">
+       hackajob
       </a>
      </h4>
      <!-- -->
      <div class="base-search-card__metadata">
       <span class="job-search-card__location">
-       Charlotte, NC
+       Boston, MA
       </span>
       <div class="job-posting-benefits text-sm">
-       <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/a0d85elrpgg38lskvq1kvzb3" data-svg-class-name="job-posting-benefits__icon-svg">
+       <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/3p1v0uhy7uq0cm5zdvzp4eo18" data-svg-class-name="job-posting-benefits__icon-svg">
        </icon>
        <span class="job-posting-benefits__text">
-        Medical insurance
-             +8 benefits
+        Actively Hiring
+        <!-- -->
        </span>
       </div>
-      <time class="job-search-card__listdate" datetime="2025-11-07">
-       3 days ago
+      <time class="job-search-card__listdate--new" datetime="2025-11-11">
+       13 hours ago
+      </time>
+      <!-- -->
+     </div>
+    </div>
+    <!-- -->
+   </div>
+  </li>
+  <li>
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4335555849" data-impression-id="jobs-search-result-9" data-reference-id="rhJZfI4BC/mogeJ6xZabQQ==" data-row="35" data-tracking-id="arayj2xMf/sB21nwzAmM9Q==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/intelligence-data-analyst-at-synexus-4335555849?position=10&amp;pageNum=2&amp;refId=rhJZfI4BC%2FmogeJ6xZabQQ%3D%3D&amp;trackingId=arayj2xMf%2FsB21nwzAmM9Q%3D%3D">
+     <span class="sr-only">
+      Intelligence Data Analyst
+     </span>
+    </a>
+    <div class="search-entity-media">
+     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/D560BAQEFl6NZPTGUlQ/company-logo_100_100/B56ZlPLdpIJoAQ-/0/1757970029802/sy_nexus_logo?e=2147483647&amp;v=beta&amp;t=PSsYh5X1YdZm_-mbhf7HKCSFUrh_VHyXALdhwyTUXL4" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+    </div>
+    <div class="base-search-card__info">
+     <h3 class="base-search-card__title">
+      Intelligence Data Analyst
+     </h3>
+     <h4 class="base-search-card__subtitle">
+      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/sy-nexus?trk=public_jobs_jserp-result_job-search-card-subtitle">
+       Synexus
+      </a>
+     </h4>
+     <!-- -->
+     <div class="base-search-card__metadata">
+      <span class="job-search-card__location">
+       New York, United States
+      </span>
+      <!-- -->
+      <time class="job-search-card__listdate--new" datetime="2025-11-11">
+       13 hours ago
       </time>
       <!-- -->
      </div>

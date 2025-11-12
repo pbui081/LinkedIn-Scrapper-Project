@@ -8,56 +8,85 @@ from bs4 import BeautifulSoup
 link_get = 'https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Python&location=United%2BStates&geoId=103644278&trk=public_jobs_jobs-search-bar_search-submit&currentJobId=4339591541&position=3&pageNum=0&start=25'
 
 
-testing = requests.get(link_get)
+get_request = requests.get(link_get)
 
+# Helper Function here
+#link: string val that links to the linkedin site
+#file_to_write: string val that represents txt file name we want to write to
+def link_to_soup(link, file_to_write) -> BeautifulSoup:
+    try:
+        link_request = requests.get(link)
+        soup_object = BeautifulSoup(link_request.text, 'lxml') 
+        with open(file_to_write, "w") as file:
+            file.write(soup_object.prettify())
+        return soup_object
+
+    except:
+        print("Error Occurred")
+        exit(-1)
+        pass
+
+
+def grab_soup_attributes():
+    pass
 
 ### Beautiful Soup testing below
 
 #BeautifulSoup object that converts html file to parseable nested data structure
-soup = BeautifulSoup(testing.text, 'lxml')
+#soup = BeautifulSoup(get_request.text, 'lxml')
 
 ### Writing file to have a prettier html file
-job_list_html = "joblist.txt"
-job_description_html = "JobDescription.txt"
-with open(job_list_html, "w") as file:
-    file.write(soup.prettify())
 
-def has_href(href):
-    return href.has_attr('href)')
+soup = link_to_soup(link_get, "joblist.txt")
 
-listed_span = soup.find_all(href=re.compile("https://www.linkedin.com"))
+#This is going to output a list of all the tag elements that match this regex form 
+listed_span = soup.find_all(class_="base-card__full-link")
+
+print("--------- listed span --------")
 print(listed_span)
 
+link_list = []
+
 for i in listed_span:
-    print("----------- Listed Elements from Website --------------")
-    #attrs grabs the attribute/attribute values from the tag
-    #get grabs the specific value from the dictionary
-    job_link = i.attrs.get('href')
-    grabbing_job_website = requests.get(job_link)
-    converting_job_link = BeautifulSoup(grabbing_job_website.text, 'lxml')
-
-    with open(job_description_html, "w") as file:
-        file.write(converting_job_link.prettify())
-
-    job_description = converting_job_link.find_all('a', class_ = 'core-section-container')
-
-    print("xxxxxx Job Link xxxxxx")
-    print(i.attrs.get('href'))
-
-    print("xxxxxx Grabbing the job description") 
-    print(job_description)
+    job_link = i.attrs.get('href') # grabs link
+    link_list.append(job_link) # appends to list
 
 
 
 
-print("------ Testing the contents of span below -----")
+print("--------- Now grabbing the job description from the first + second linked job ---------")
+first_job = link_list[0]
+second_job = link_list[1]
 
-test = (soup.span.contents[0].strip())
-test_2 = (soup.span.contents)
-print(test)
-print(test_2)
+print(link_list)
+
+grabbing_job_website = requests.get(first_job)
+converting_job_link = BeautifulSoup(grabbing_job_website.text, 'lxml')
+
+first_soup =  link_to_soup(first_job, "first_job_html.txt")
+second_soup = link_to_soup(second_job, "second_job_html.txt")
+
+print("__________________________________________________________")
+#job 1
+job_desc = first_soup.find(class_ = "show-more-less-html__markup")
+job_desc_all = first_soup.find_all(class_ = "show-more-less-html__markup")
+
+print(job_desc)
+# when using .find() and accessing the attribute of the results, we must ensure that the members of the object
+# are to be non-None, when using find_all(), it is guaranteed to return a type of something. 
+if job_desc is not None:
+    print(type(job_desc.attrs.get('p')))
+else:
+    print("none found")
+print(type(job_desc_all[0]).attrs.get('p'))
+print(type(first_soup))
 
 
+print("__________________________________________________________")
+
+
+
+#show-more-less-html__markup to find the job description block 
 
 
 class LinkedInScrapper:
