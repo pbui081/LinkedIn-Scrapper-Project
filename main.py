@@ -1,7 +1,8 @@
 import requests
 import re
 from bs4 import BeautifulSoup
-
+import sqlite3
+from flask import Flask, render_template
 
 #link to testing here
 
@@ -10,6 +11,13 @@ link_get = 'https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/sear
 
 get_request = requests.get(link_get)
 
+
+"""
+Helper Function that converts given link into BeautifulSoup Object for HTML parsing and writes output to txt file for debugging
+Args:
+
+
+"""
 # Helper Function here
 #link: string val that links to the linkedin site
 #file_to_write: string val that represents txt file name we want to write to
@@ -26,6 +34,15 @@ def link_to_soup(link, file_to_write) -> BeautifulSoup:
         exit(-1)
         pass
 
+"""
+Grabs the LinkedIn Job Description
+
+Args:
+    soup_object (BeautifulSoup Object): Nested HTML data structure converted by BeautifulSoup4
+
+Expected reutrn: string type
+
+"""
 def grab_job_desc(soup_object : BeautifulSoup) -> str:
     try:
         job_description = soup_object.find(class_ = "show-more-less-html__markup")
@@ -35,7 +52,13 @@ def grab_job_desc(soup_object : BeautifulSoup) -> str:
         exit(-1)
     pass
 
-
+def grab_company_name(soup_object : BeautifulSoup) -> str:
+    try:
+        company_name = soup_object.find(class_ = "topcard__org-name-link topcard__flavor--black-link")
+        return company_name.get_text(strip=True)
+    except:
+        print("Error has occured grabbing Company Name")
+        exit(-1)
 
 ### Beautiful Soup testing below
 
@@ -71,14 +94,20 @@ converting_job_link = BeautifulSoup(grabbing_job_website.text, 'lxml')
 first_soup =  link_to_soup(first_job, "first_job_html.txt")
 second_soup = link_to_soup(second_job, "second_job_html.txt")
 
+######## This grabs the job description below 
+
 print("__________________________________________________________")
 #job 1
+
+print(grab_company_name(first_soup))
 print(grab_job_desc(first_soup))
 
 print("__________________________________________________________")
 
 
 #job 2 
+print(grab_company_name(second_soup))
+
 print(grab_job_desc(second_soup))
 
 
@@ -102,6 +131,36 @@ class LinkedInScrapper:
 
     
 
+class db: 
+    def __init__(self):
+        self.db = sqlite3.connect("job_info.sqlite")
+        self.cursor = self.db.cursor()
 
+        #This creates the table which we'll load up with information
+        self.cursor.execute("""
+        CREATE TABLE IF NOT EXISTS jobs (
+                id INTEGER PRIMARY KEY AUTOINCREMENT,
+                title TEXT
+                company TEXT,      
+                job_desc, TEXT,
+                location TEXT,
+                date_added TEXT
+            )
+
+        """)
+        self.cursor.commit()
+
+    def insert_information(self, company : str, job_desc : str, location : str, date_added, str):
+        self.cursor.execute("""
+            INSERT INTO jobs (title, company, job_desc, location, date_added)
+                            
+                            """)
+
+    #This is going to delete the database in order to refresh the table with new job information
+    def refresh_table(self):
+        self.cursor.execute("DROP TABLE IF EXISTS jobs")
+        conn.commit()
+
+        conn.close()
         
 
