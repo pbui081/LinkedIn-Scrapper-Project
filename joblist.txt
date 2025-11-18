@@ -2,22 +2,56 @@
 <html>
  <body>
   <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4336024204" data-impression-id="jobs-search-result-0" data-reference-id="HbDMZP5ReiKW3OhV3ii+Nw==" data-row="26" data-tracking-id="vdRx1sz6WYLVx611a2uuSA==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/senior-software-engineer-%24200k-%2B-equity-at-akido-labs-4336024204?position=1&amp;pageNum=2&amp;refId=HbDMZP5ReiKW3OhV3ii%2BNw%3D%3D&amp;trackingId=vdRx1sz6WYLVx611a2uuSA%3D%3D">
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4335407746" data-impression-id="jobs-search-result-0" data-reference-id="Jlx7t7o5T3lrGehD1KCzcQ==" data-row="26" data-tracking-id="7w8Cy85YlyYpOSbPd5XRew==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/business-analyst-at-neutrino-advisory-an-inc-5000-company-4335407746?position=1&amp;pageNum=2&amp;refId=Jlx7t7o5T3lrGehD1KCzcQ%3D%3D&amp;trackingId=7w8Cy85YlyYpOSbPd5XRew%3D%3D">
      <span class="sr-only">
-      Senior Software Engineer ($200k + Equity)
+      Business Analyst
      </span>
     </a>
     <div class="search-entity-media">
-     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/D4E0BAQEzFB3I7XySAQ/company-logo_100_100/company-logo_100_100/0/1719413210795/akido_labs_logo?e=2147483647&amp;v=beta&amp;t=x-PKY0jjfk0YUIxRHBrFYk0v_BvM4SpnEujJmEWDcdc" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0BAQE-tSN50KKagw/company-logo_100_100/company-logo_100_100/0/1630600738693/neutrinoadvisory_logo?e=2147483647&amp;v=beta&amp;t=9GAZt8EdRJX3rOT_8EzTTTa1ZzO-2vsNKxMWZ6aXftI" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
     </div>
     <div class="base-search-card__info">
      <h3 class="base-search-card__title">
-      Senior Software Engineer ($200k + Equity)
+      Business Analyst
      </h3>
      <h4 class="base-search-card__subtitle">
-      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/akido-labs?trk=public_jobs_jserp-result_job-search-card-subtitle">
-       Akido Labs
+      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/neutrinoadvisory?trk=public_jobs_jserp-result_job-search-card-subtitle">
+       Neutrino Advisory, an Inc 5000 Company
+      </a>
+     </h4>
+     <!-- -->
+     <div class="base-search-card__metadata">
+      <span class="job-search-card__location">
+       Philadelphia, PA
+      </span>
+      <!-- -->
+      <time class="job-search-card__listdate" datetime="2025-11-11">
+       1 day ago
+      </time>
+      <!-- -->
+     </div>
+    </div>
+    <!-- -->
+   </div>
+  </li>
+  <li>
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4335586626" data-impression-id="jobs-search-result-1" data-reference-id="Jlx7t7o5T3lrGehD1KCzcQ==" data-row="27" data-tracking-id="+DmPTWIhNOIqTZWJ/4XEvw==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/inviting-senior-data-engineers-at-fusemachines-4335586626?position=2&amp;pageNum=2&amp;refId=Jlx7t7o5T3lrGehD1KCzcQ%3D%3D&amp;trackingId=%2BDmPTWIhNOIqTZWJ%2F4XEvw%3D%3D">
+     <span class="sr-only">
+      Inviting Senior Data Engineers
+     </span>
+    </a>
+    <div class="search-entity-media">
+     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/D560BAQFpBPKrtFEh_A/company-logo_100_100/company-logo_100_100/0/1682490056011/fusemachines_logo?e=2147483647&amp;v=beta&amp;t=diqiyHIQK7ONJRADYZFty5f5Oc9QHAlwxeQ4ElJ0bn8" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+    </div>
+    <div class="base-search-card__info">
+     <h3 class="base-search-card__title">
+      Inviting Senior Data Engineers
+     </h3>
+     <h4 class="base-search-card__subtitle">
+      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/fusemachines?trk=public_jobs_jserp-result_job-search-card-subtitle">
+       Fusemachines
       </a>
      </h4>
      <!-- -->
@@ -33,7 +67,48 @@
         <!-- -->
        </span>
       </div>
-      <time class="job-search-card__listdate--new" datetime="2025-11-13">
+      <time class="job-search-card__listdate" datetime="2025-11-11">
+       1 day ago
+      </time>
+      <!-- -->
+     </div>
+    </div>
+    <!-- -->
+   </div>
+  </li>
+  <li>
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4338005331" data-impression-id="jobs-search-result-2" data-reference-id="Jlx7t7o5T3lrGehD1KCzcQ==" data-row="28" data-tracking-id="V3T36LW8b22b+W5nIKB/jw==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/python-developer-at-beaconfire-inc-4338005331?position=3&amp;pageNum=2&amp;refId=Jlx7t7o5T3lrGehD1KCzcQ%3D%3D&amp;trackingId=V3T36LW8b22b%2BW5nIKB%2Fjw%3D%3D">
+     <span class="sr-only">
+      Python Developer
+     </span>
+    </a>
+    <div class="search-entity-media">
+     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C560BAQEgZyD0JY8dTA/company-logo_100_100/company-logo_100_100/0/1630645938186?e=2147483647&amp;v=beta&amp;t=rtUNZayNFddz2ZEVUXEZVkDrnx6z-sh2A6Z8ZQvTSqc" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+    </div>
+    <div class="base-search-card__info">
+     <h3 class="base-search-card__title">
+      Python Developer
+     </h3>
+     <h4 class="base-search-card__subtitle">
+      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/beaconfireinc?trk=public_jobs_jserp-result_job-search-card-subtitle">
+       BeaconFire Inc.
+      </a>
+     </h4>
+     <!-- -->
+     <div class="base-search-card__metadata">
+      <span class="job-search-card__location">
+       New York, United States
+      </span>
+      <div class="job-posting-benefits text-sm">
+       <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/3p1v0uhy7uq0cm5zdvzp4eo18" data-svg-class-name="job-posting-benefits__icon-svg">
+       </icon>
+       <span class="job-posting-benefits__text">
+        Actively Hiring
+        <!-- -->
+       </span>
+      </div>
+      <time class="job-search-card__listdate--new" datetime="2025-11-12">
        5 hours ago
       </time>
       <!-- -->
@@ -43,28 +118,28 @@
    </div>
   </li>
   <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4335161763" data-impression-id="jobs-search-result-1" data-reference-id="HbDMZP5ReiKW3OhV3ii+Nw==" data-row="27" data-tracking-id="qLuYI2qxoBBO+qDDTBQG7A==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/data-analyst-at-joinrs-4335161763?position=2&amp;pageNum=2&amp;refId=HbDMZP5ReiKW3OhV3ii%2BNw%3D%3D&amp;trackingId=qLuYI2qxoBBO%2BqDDTBQG7A%3D%3D">
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4335684790" data-impression-id="jobs-search-result-3" data-reference-id="Jlx7t7o5T3lrGehD1KCzcQ==" data-row="29" data-tracking-id="sgDhXUsCbqzdEvQASLAQjg==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/data-analyst-at-winaxis-llc-4335684790?position=4&amp;pageNum=2&amp;refId=Jlx7t7o5T3lrGehD1KCzcQ%3D%3D&amp;trackingId=sgDhXUsCbqzdEvQASLAQjg%3D%3D">
      <span class="sr-only">
       Data Analyst
      </span>
     </a>
     <div class="search-entity-media">
-     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/D4D0BAQFprpI9tmkwfA/company-logo_100_100/company-logo_100_100/0/1696490265118/joinrs_italia_logo?e=2147483647&amp;v=beta&amp;t=ibNOUGYzhH_7fohpZlVdbtXPJHJkPdm2EpLjMh5e3k0" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/D560BAQHSy5EGBprMGw/company-logo_100_100/company-logo_100_100/0/1731432300808/winaxis_llc_logo?e=2147483647&amp;v=beta&amp;t=IzP_p9xUFnQTKbeeYp3c213HgsRbwyAS6hvXdZN5x84" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
     </div>
     <div class="base-search-card__info">
      <h3 class="base-search-card__title">
       Data Analyst
      </h3>
      <h4 class="base-search-card__subtitle">
-      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://it.linkedin.com/company/joinrs-international?trk=public_jobs_jserp-result_job-search-card-subtitle">
-       Joinrs
+      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/winaxis-llc?trk=public_jobs_jserp-result_job-search-card-subtitle">
+       Winaxis LLC
       </a>
      </h4>
      <!-- -->
      <div class="base-search-card__metadata">
       <span class="job-search-card__location">
-       United States
+       Delaware City, DE
       </span>
       <div class="job-posting-benefits text-sm">
        <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/3p1v0uhy7uq0cm5zdvzp4eo18" data-svg-class-name="job-posting-benefits__icon-svg">
@@ -74,48 +149,7 @@
         <!-- -->
        </span>
       </div>
-      <time class="job-search-card__listdate--new" datetime="2025-11-13">
-       16 hours ago
-      </time>
-      <!-- -->
-     </div>
-    </div>
-    <!-- -->
-   </div>
-  </li>
-  <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4322390977" data-impression-id="jobs-search-result-2" data-reference-id="HbDMZP5ReiKW3OhV3ii+Nw==" data-row="28" data-tracking-id="3RTwgO8P5yxgGCv/SE8DQQ==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/python-developer-at-capgemini-4322390977?position=3&amp;pageNum=2&amp;refId=HbDMZP5ReiKW3OhV3ii%2BNw%3D%3D&amp;trackingId=3RTwgO8P5yxgGCv%2FSE8DQQ%3D%3D">
-     <span class="sr-only">
-      Python Developer
-     </span>
-    </a>
-    <div class="search-entity-media">
-     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/D4E0BAQEygLYzCX_Eyw/company-logo_100_100/B4EZokv4W0HcAQ-/0/1761553123167/capgemini_logo?e=2147483647&amp;v=beta&amp;t=xG3EmbNVlc7SRrVZ6PRO-00iirsdvztT1TasylO58zE" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
-    </div>
-    <div class="base-search-card__info">
-     <h3 class="base-search-card__title">
-      Python Developer
-     </h3>
-     <h4 class="base-search-card__subtitle">
-      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://fr.linkedin.com/company/capgemini?trk=public_jobs_jserp-result_job-search-card-subtitle">
-       Capgemini
-      </a>
-     </h4>
-     <!-- -->
-     <div class="base-search-card__metadata">
-      <span class="job-search-card__location">
-       Boston, MA
-      </span>
-      <div class="job-posting-benefits text-sm">
-       <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/3p1v0uhy7uq0cm5zdvzp4eo18" data-svg-class-name="job-posting-benefits__icon-svg">
-       </icon>
-       <span class="job-posting-benefits__text">
-        Actively Hiring
-        <!-- -->
-       </span>
-      </div>
-      <time class="job-search-card__listdate--new" datetime="2025-11-13">
+      <time class="job-search-card__listdate--new" datetime="2025-11-12">
        4 hours ago
       </time>
       <!-- -->
@@ -125,79 +159,31 @@
    </div>
   </li>
   <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4335962161" data-impression-id="jobs-search-result-3" data-reference-id="HbDMZP5ReiKW3OhV3ii+Nw==" data-row="29" data-tracking-id="U594b4EEqlxdItWp+xA4iQ==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/data-analyst-at-empiric-4335962161?position=4&amp;pageNum=2&amp;refId=HbDMZP5ReiKW3OhV3ii%2BNw%3D%3D&amp;trackingId=U594b4EEqlxdItWp%2BxA4iQ%3D%3D">
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4339974725" data-impression-id="jobs-search-result-4" data-reference-id="Jlx7t7o5T3lrGehD1KCzcQ==" data-row="30" data-tracking-id="afARZw7xMeGOSJWuqKBTiw==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/junior-data-analyst-at-vista-applied-solutions-group-inc-4339974725?position=5&amp;pageNum=2&amp;refId=Jlx7t7o5T3lrGehD1KCzcQ%3D%3D&amp;trackingId=afARZw7xMeGOSJWuqKBTiw%3D%3D">
      <span class="sr-only">
-      Data Analyst
+      Junior Data Analyst
      </span>
     </a>
     <div class="search-entity-media">
-     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0BAQFLl__ocsE0Yw/company-logo_100_100/company-logo_100_100/0/1678096316531/empiric_solutions_logo?e=2147483647&amp;v=beta&amp;t=eMPBmkmWPwH4h4UN1XCsonmr8OpByJaBN4xw4G4EMuI" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/D4D0BAQG80IyuHFrbwg/company-logo_100_100/company-logo_100_100/0/1680202099187/vasginc_logo?e=2147483647&amp;v=beta&amp;t=I7RE4EToWkUYhjvJnY71MsqFpZ1BMUx-UnDUuKIw2Zw" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
     </div>
     <div class="base-search-card__info">
      <h3 class="base-search-card__title">
-      Data Analyst
+      Junior Data Analyst
      </h3>
      <h4 class="base-search-card__subtitle">
-      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://uk.linkedin.com/company/empiric-solutions?trk=public_jobs_jserp-result_job-search-card-subtitle">
-       Empiric
+      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/vasginc?trk=public_jobs_jserp-result_job-search-card-subtitle">
+       Vista Applied Solutions Group Inc
       </a>
      </h4>
      <!-- -->
      <div class="base-search-card__metadata">
       <span class="job-search-card__location">
-       New Orleans, LA
+       Colorado Springs, CO
       </span>
-      <div class="job-posting-benefits text-sm">
-       <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/3p1v0uhy7uq0cm5zdvzp4eo18" data-svg-class-name="job-posting-benefits__icon-svg">
-       </icon>
-       <span class="job-posting-benefits__text">
-        Actively Hiring
-        <!-- -->
-       </span>
-      </div>
-      <time class="job-search-card__listdate--new" datetime="2025-11-13">
-       11 hours ago
-      </time>
       <!-- -->
-     </div>
-    </div>
-    <!-- -->
-   </div>
-  </li>
-  <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4335636090" data-impression-id="jobs-search-result-4" data-reference-id="HbDMZP5ReiKW3OhV3ii+Nw==" data-row="30" data-tracking-id="7oi3ypbNnhVxnAnaP8yVKQ==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/data-analyst-at-integrated-real-estate-group-4335636090?position=5&amp;pageNum=2&amp;refId=HbDMZP5ReiKW3OhV3ii%2BNw%3D%3D&amp;trackingId=7oi3ypbNnhVxnAnaP8yVKQ%3D%3D">
-     <span class="sr-only">
-      Data Analyst
-     </span>
-    </a>
-    <div class="search-entity-media">
-     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C560BAQFlqxG3E3Utyw/company-logo_100_100/company-logo_100_100/0/1671474571940/integratedreg_logo?e=2147483647&amp;v=beta&amp;t=z2Hzs1rfr_7jg1bHGcuUD5Ip9d-35J63TcD9s3TrvUI" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
-    </div>
-    <div class="base-search-card__info">
-     <h3 class="base-search-card__title">
-      Data Analyst
-     </h3>
-     <h4 class="base-search-card__subtitle">
-      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/integratedreg?trk=public_jobs_jserp-result_job-search-card-subtitle">
-       Integrated Real Estate Group
-      </a>
-     </h4>
-     <!-- -->
-     <div class="base-search-card__metadata">
-      <span class="job-search-card__location">
-       Southlake, TX
-      </span>
-      <div class="job-posting-benefits text-sm">
-       <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/3p1v0uhy7uq0cm5zdvzp4eo18" data-svg-class-name="job-posting-benefits__icon-svg">
-       </icon>
-       <span class="job-posting-benefits__text">
-        Actively Hiring
-        <!-- -->
-       </span>
-      </div>
-      <time class="job-search-card__listdate" datetime="2025-11-12">
+      <time class="job-search-card__listdate" datetime="2025-11-11">
        1 day ago
       </time>
       <!-- -->
@@ -207,62 +193,28 @@
    </div>
   </li>
   <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4317831120" data-impression-id="jobs-search-result-5" data-reference-id="HbDMZP5ReiKW3OhV3ii+Nw==" data-row="31" data-tracking-id="dxfG8Ho6R/dh7dm1pwAXvQ==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/junior-python-developer-at-diametric-capital-4317831120?position=6&amp;pageNum=2&amp;refId=HbDMZP5ReiKW3OhV3ii%2BNw%3D%3D&amp;trackingId=dxfG8Ho6R%2Fdh7dm1pwAXvQ%3D%3D">
-     <span class="sr-only">
-      Junior Python Developer
-     </span>
-    </a>
-    <div class="search-entity-media">
-     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C560BAQFTaisq8KYZNw/company-logo_100_100/company-logo_100_100/0/1631326607669?e=2147483647&amp;v=beta&amp;t=EiowTQeGbO5hOSiw6x-KbOuMwpMjbwpjf-2i4Fdhlmk" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
-    </div>
-    <div class="base-search-card__info">
-     <h3 class="base-search-card__title">
-      Junior Python Developer
-     </h3>
-     <h4 class="base-search-card__subtitle">
-      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/diametric-capital?trk=public_jobs_jserp-result_job-search-card-subtitle">
-       Diametric Capital
-      </a>
-     </h4>
-     <!-- -->
-     <div class="base-search-card__metadata">
-      <span class="job-search-card__location">
-       New York, NY
-      </span>
-      <!-- -->
-      <time class="job-search-card__listdate--new" datetime="2025-11-13">
-       8 hours ago
-      </time>
-      <!-- -->
-     </div>
-    </div>
-    <!-- -->
-   </div>
-  </li>
-  <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4335699160" data-impression-id="jobs-search-result-6" data-reference-id="HbDMZP5ReiKW3OhV3ii+Nw==" data-row="32" data-tracking-id="r4qZ/hrTZQs80klqqawalw==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/python-developer-at-capgemini-4335699160?position=7&amp;pageNum=2&amp;refId=HbDMZP5ReiKW3OhV3ii%2BNw%3D%3D&amp;trackingId=r4qZ%2FhrTZQs80klqqawalw%3D%3D">
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4338134294" data-impression-id="jobs-search-result-5" data-reference-id="Jlx7t7o5T3lrGehD1KCzcQ==" data-row="31" data-tracking-id="2TcArz5XBW20Xx2FD6bh/A==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/python-developer-at-beaconfire-inc-4338134294?position=6&amp;pageNum=2&amp;refId=Jlx7t7o5T3lrGehD1KCzcQ%3D%3D&amp;trackingId=2TcArz5XBW20Xx2FD6bh%2FA%3D%3D">
      <span class="sr-only">
       Python Developer
      </span>
     </a>
     <div class="search-entity-media">
-     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/D4E0BAQEygLYzCX_Eyw/company-logo_100_100/B4EZokv4W0HcAQ-/0/1761553123167/capgemini_logo?e=2147483647&amp;v=beta&amp;t=xG3EmbNVlc7SRrVZ6PRO-00iirsdvztT1TasylO58zE" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C560BAQEgZyD0JY8dTA/company-logo_100_100/company-logo_100_100/0/1630645938186?e=2147483647&amp;v=beta&amp;t=rtUNZayNFddz2ZEVUXEZVkDrnx6z-sh2A6Z8ZQvTSqc" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
     </div>
     <div class="base-search-card__info">
      <h3 class="base-search-card__title">
       Python Developer
      </h3>
      <h4 class="base-search-card__subtitle">
-      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://fr.linkedin.com/company/capgemini?trk=public_jobs_jserp-result_job-search-card-subtitle">
-       Capgemini
+      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/beaconfireinc?trk=public_jobs_jserp-result_job-search-card-subtitle">
+       BeaconFire Inc.
       </a>
      </h4>
      <!-- -->
      <div class="base-search-card__metadata">
       <span class="job-search-card__location">
-       Pennsylvania, United States
+       Windsor, NJ
       </span>
       <div class="job-posting-benefits text-sm">
        <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/3p1v0uhy7uq0cm5zdvzp4eo18" data-svg-class-name="job-posting-benefits__icon-svg">
@@ -272,8 +224,8 @@
         <!-- -->
        </span>
       </div>
-      <time class="job-search-card__listdate--new" datetime="2025-11-13">
-       22 hours ago
+      <time class="job-search-card__listdate--new" datetime="2025-11-12">
+       9 hours ago
       </time>
       <!-- -->
      </div>
@@ -282,31 +234,79 @@
    </div>
   </li>
   <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4335704780" data-impression-id="jobs-search-result-7" data-reference-id="HbDMZP5ReiKW3OhV3ii+Nw==" data-row="33" data-tracking-id="LufA21MmMjC7JAmTeXytWg==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/data-analyst-remote-us-at-quanata-4335704780?position=8&amp;pageNum=2&amp;refId=HbDMZP5ReiKW3OhV3ii%2BNw%3D%3D&amp;trackingId=LufA21MmMjC7JAmTeXytWg%3D%3D">
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4338044500" data-impression-id="jobs-search-result-6" data-reference-id="Jlx7t7o5T3lrGehD1KCzcQ==" data-row="32" data-tracking-id="MKSB7BWwHo3XismKFt6L2g==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/python-developer-at-beaconfire-inc-4338044500?position=7&amp;pageNum=2&amp;refId=Jlx7t7o5T3lrGehD1KCzcQ%3D%3D&amp;trackingId=MKSB7BWwHo3XismKFt6L2g%3D%3D">
      <span class="sr-only">
-      Data Analyst [Remote-US]
+      Python Developer
      </span>
     </a>
     <div class="search-entity-media">
-     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/D4D0BAQHawc5c-u1agw/company-logo_100_100/company-logo_100_100/0/1698175887925/blue_owl_llc_logo?e=2147483647&amp;v=beta&amp;t=BgPJOYqlp0274VKr56ZGIE9WtAYF772gjZ77QaSrjL4" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C560BAQEgZyD0JY8dTA/company-logo_100_100/company-logo_100_100/0/1630645938186?e=2147483647&amp;v=beta&amp;t=rtUNZayNFddz2ZEVUXEZVkDrnx6z-sh2A6Z8ZQvTSqc" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
     </div>
     <div class="base-search-card__info">
      <h3 class="base-search-card__title">
-      Data Analyst [Remote-US]
+      Python Developer
      </h3>
      <h4 class="base-search-card__subtitle">
-      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/quanata?trk=public_jobs_jserp-result_job-search-card-subtitle">
-       Quanata
+      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/beaconfireinc?trk=public_jobs_jserp-result_job-search-card-subtitle">
+       BeaconFire Inc.
       </a>
      </h4>
      <!-- -->
      <div class="base-search-card__metadata">
       <span class="job-search-card__location">
-       San Francisco, CA
+       Windsor, NJ
       </span>
+      <div class="job-posting-benefits text-sm">
+       <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/3p1v0uhy7uq0cm5zdvzp4eo18" data-svg-class-name="job-posting-benefits__icon-svg">
+       </icon>
+       <span class="job-posting-benefits__text">
+        Actively Hiring
+        <!-- -->
+       </span>
+      </div>
+      <time class="job-search-card__listdate--new" datetime="2025-11-12">
+       9 hours ago
+      </time>
       <!-- -->
-      <time class="job-search-card__listdate" datetime="2025-11-12">
+     </div>
+    </div>
+    <!-- -->
+   </div>
+  </li>
+  <li>
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4340084675" data-impression-id="jobs-search-result-7" data-reference-id="Jlx7t7o5T3lrGehD1KCzcQ==" data-row="33" data-tracking-id="5RRNit8q7D5YGD01bdqP0w==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/continuous-improvement-engineer-at-mann%2Bhummel-4340084675?position=8&amp;pageNum=2&amp;refId=Jlx7t7o5T3lrGehD1KCzcQ%3D%3D&amp;trackingId=5RRNit8q7D5YGD01bdqP0w%3D%3D">
+     <span class="sr-only">
+      Continuous Improvement Engineer
+     </span>
+    </a>
+    <div class="search-entity-media">
+     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C560BAQEpbIow0W2vOw/company-logo_100_100/company-logo_100_100/0/1631374271088?e=2147483647&amp;v=beta&amp;t=jvAh7UEQqF069AAK9e2umRQzoolupGB30QbN6YtMBUY" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+    </div>
+    <div class="base-search-card__info">
+     <h3 class="base-search-card__title">
+      Continuous Improvement Engineer
+     </h3>
+     <h4 class="base-search-card__subtitle">
+      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://de.linkedin.com/company/mannhummel?trk=public_jobs_jserp-result_job-search-card-subtitle">
+       MANN+HUMMEL
+      </a>
+     </h4>
+     <!-- -->
+     <div class="base-search-card__metadata">
+      <span class="job-search-card__location">
+       Wilson, NC
+      </span>
+      <div class="job-posting-benefits text-sm">
+       <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/3p1v0uhy7uq0cm5zdvzp4eo18" data-svg-class-name="job-posting-benefits__icon-svg">
+       </icon>
+       <span class="job-posting-benefits__text">
+        Actively Hiring
+             +4 benefits
+       </span>
+      </div>
+      <time class="job-search-card__listdate" datetime="2025-11-11">
        1 day ago
       </time>
       <!-- -->
@@ -316,69 +316,28 @@
    </div>
   </li>
   <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4336025872" data-impression-id="jobs-search-result-8" data-reference-id="HbDMZP5ReiKW3OhV3ii+Nw==" data-row="34" data-tracking-id="3xHUiMsRR5jg3DqMqAiMyg==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/data-engineer-jr-mid-sr-level-roles-available-at-rubix-solutions-4336025872?position=9&amp;pageNum=2&amp;refId=HbDMZP5ReiKW3OhV3ii%2BNw%3D%3D&amp;trackingId=3xHUiMsRR5jg3DqMqAiMyg%3D%3D">
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4337404299" data-impression-id="jobs-search-result-8" data-reference-id="Jlx7t7o5T3lrGehD1KCzcQ==" data-row="34" data-tracking-id="coaPe+YIgNGpGoGVQX5cdA==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/python-developer-at-beaconfire-inc-4337404299?position=9&amp;pageNum=2&amp;refId=Jlx7t7o5T3lrGehD1KCzcQ%3D%3D&amp;trackingId=coaPe%2BYIgNGpGoGVQX5cdA%3D%3D">
      <span class="sr-only">
-      Data Engineer (Jr, Mid, &amp; Sr level roles available)
+      Python Developer
      </span>
     </a>
     <div class="search-entity-media">
-     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C560BAQFB6AxWQ5v93A/company-logo_100_100/company-logo_100_100/0/1640884927499/rubix_solutions_llc_logo?e=2147483647&amp;v=beta&amp;t=CyM1l-gTRcJbX5NzJFXncrBY36jDtuy9fTnVknHEYLI" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C560BAQEgZyD0JY8dTA/company-logo_100_100/company-logo_100_100/0/1630645938186?e=2147483647&amp;v=beta&amp;t=rtUNZayNFddz2ZEVUXEZVkDrnx6z-sh2A6Z8ZQvTSqc" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
     </div>
     <div class="base-search-card__info">
      <h3 class="base-search-card__title">
-      Data Engineer (Jr, Mid, &amp; Sr level roles available)
+      Python Developer
      </h3>
      <h4 class="base-search-card__subtitle">
-      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/rubix-solutions-llc?trk=public_jobs_jserp-result_job-search-card-subtitle">
-       Rubix Solutions
+      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/beaconfireinc?trk=public_jobs_jserp-result_job-search-card-subtitle">
+       BeaconFire Inc.
       </a>
      </h4>
      <!-- -->
      <div class="base-search-card__metadata">
       <span class="job-search-card__location">
-       Arlington, VA
-      </span>
-      <div class="job-posting-benefits text-sm">
-       <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/8zmuwb93gzlb935fk4ao4z779" data-svg-class-name="job-posting-benefits__icon-svg">
-       </icon>
-       <span class="job-posting-benefits__text">
-        Be an early applicant
-        <!-- -->
-       </span>
-      </div>
-      <time class="job-search-card__listdate--new" datetime="2025-11-14">
-       55 minutes ago
-      </time>
-      <!-- -->
-     </div>
-    </div>
-    <!-- -->
-   </div>
-  </li>
-  <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4340536132" data-impression-id="jobs-search-result-9" data-reference-id="HbDMZP5ReiKW3OhV3ii+Nw==" data-row="35" data-tracking-id="u95IPCK+UAljfDLbQyK54w==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/machine-learning-engineer-l4-production-science-at-netflix-4340536132?position=10&amp;pageNum=2&amp;refId=HbDMZP5ReiKW3OhV3ii%2BNw%3D%3D&amp;trackingId=u95IPCK%2BUAljfDLbQyK54w%3D%3D">
-     <span class="sr-only">
-      Machine Learning Engineer (L4) - Production Science
-     </span>
-    </a>
-    <div class="search-entity-media">
-     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/D4E0BAQGMva5_E8pUjw/company-logo_100_100/company-logo_100_100/0/1736276678240/netflix_logo?e=2147483647&amp;v=beta&amp;t=OSlCcMLJmlXo79qPS59zP_IX873LK5R4FGYeUAWXdiQ" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
-    </div>
-    <div class="base-search-card__info">
-     <h3 class="base-search-card__title">
-      Machine Learning Engineer (L4) - Production Science
-     </h3>
-     <h4 class="base-search-card__subtitle">
-      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/netflix?trk=public_jobs_jserp-result_job-search-card-subtitle">
-       Netflix
-      </a>
-     </h4>
-     <!-- -->
-     <div class="base-search-card__metadata">
-      <span class="job-search-card__location">
-       United States
+       New York, United States
       </span>
       <div class="job-posting-benefits text-sm">
        <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/3p1v0uhy7uq0cm5zdvzp4eo18" data-svg-class-name="job-posting-benefits__icon-svg">
@@ -388,8 +347,49 @@
         <!-- -->
        </span>
       </div>
-      <time class="job-search-card__listdate--new" datetime="2025-11-13">
-       1 hour ago
+      <time class="job-search-card__listdate--new" datetime="2025-11-12">
+       7 hours ago
+      </time>
+      <!-- -->
+     </div>
+    </div>
+    <!-- -->
+   </div>
+  </li>
+  <li>
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4339785527" data-impression-id="jobs-search-result-9" data-reference-id="Jlx7t7o5T3lrGehD1KCzcQ==" data-row="35" data-tracking-id="bNDh935zK4kWY4WgaoGhaw==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/python-developer-at-beaconfire-inc-4339785527?position=10&amp;pageNum=2&amp;refId=Jlx7t7o5T3lrGehD1KCzcQ%3D%3D&amp;trackingId=bNDh935zK4kWY4WgaoGhaw%3D%3D">
+     <span class="sr-only">
+      Python Developer
+     </span>
+    </a>
+    <div class="search-entity-media">
+     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C560BAQEgZyD0JY8dTA/company-logo_100_100/company-logo_100_100/0/1630645938186?e=2147483647&amp;v=beta&amp;t=rtUNZayNFddz2ZEVUXEZVkDrnx6z-sh2A6Z8ZQvTSqc" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+    </div>
+    <div class="base-search-card__info">
+     <h3 class="base-search-card__title">
+      Python Developer
+     </h3>
+     <h4 class="base-search-card__subtitle">
+      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/beaconfireinc?trk=public_jobs_jserp-result_job-search-card-subtitle">
+       BeaconFire Inc.
+      </a>
+     </h4>
+     <!-- -->
+     <div class="base-search-card__metadata">
+      <span class="job-search-card__location">
+       New Jersey, United States
+      </span>
+      <div class="job-posting-benefits text-sm">
+       <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/3p1v0uhy7uq0cm5zdvzp4eo18" data-svg-class-name="job-posting-benefits__icon-svg">
+       </icon>
+       <span class="job-posting-benefits__text">
+        Actively Hiring
+        <!-- -->
+       </span>
+      </div>
+      <time class="job-search-card__listdate--new" datetime="2025-11-12">
+       3 hours ago
       </time>
       <!-- -->
      </div>
