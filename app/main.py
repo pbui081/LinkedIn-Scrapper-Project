@@ -6,10 +6,14 @@ from flask import Flask, render_template
 
 #link to testing here
 
-link_get = 'https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Python&location=United%2BStates&geoId=103644278&trk=public_jobs_jobs-search-bar_search-submit&currentJobId=4339591541&position=3&pageNum=0&start=25'
+
+link_get = 'https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords={keyword_input}&location=United%2BStates&geoId=103644278&trk=public_jobs_jobs-search-bar_search-submit&currentJobId=4339591541&position=3&pageNum=0&start={increment}'
+link_get = 'https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Python&location=United%2BStates&geoId=103644278&trk=public_jobs_jobs-search-bar_search-submit&currentJobId=4339591541&position=3&pageNum=0&start=Python'
 
 
+keyword_input = link_get.format("Software", 25)
 
+print("---------- Link Here ----------")
 
 """
 Helper Function that converts given link into BeautifulSoup Object for HTML parsing and writes output to txt file for debugging
@@ -93,6 +97,14 @@ def grab_company_name(soup_object : BeautifulSoup) -> str:
         print("Error has occured grabbing Company Name")
         exit(-1)
 
+###
+# Creating a dictionary of all the information from the pages of linkedin
+#
+#
+###
+def create_scraped_list():
+    pass
+
 ### Beautiful Soup testing below
 
 #BeautifulSoup object that converts html file to parseable nested data structure
@@ -135,10 +147,6 @@ second_soup = link_to_soup(second_job, "second_job_html.txt")
 print("__________________________________________________________")
 #job 1
 
-job_point = first_soup.find("ul", class_="show-more-less-html__markup")
-if job_point:
-    job_point.find_all("li")
-
 print(grab_company_name(first_soup))
 print(grab_job_points(first_soup))
 
@@ -148,7 +156,7 @@ print("__________________________________________________________")
 
 #job 2 
 print(grab_company_name(second_soup))
-
+print(grab_job_points(first_soup))
 
 
 
