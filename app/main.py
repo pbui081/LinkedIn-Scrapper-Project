@@ -3,15 +3,17 @@ import re
 from bs4 import BeautifulSoup
 import sqlite3
 from flask import Flask, render_template
+import os
 
 #link to testing here
 
 
-link_get = 'https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords={keyword_input}&location=United%2BStates&geoId=103644278&trk=public_jobs_jobs-search-bar_search-submit&currentJobId=4339591541&position=3&pageNum=0&start={increment}'
-link_get = 'https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Python&location=United%2BStates&geoId=103644278&trk=public_jobs_jobs-search-bar_search-submit&currentJobId=4339591541&position=3&pageNum=0&start=Python'
+#link_get = 'https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords={keyword_input}&location=United%2BStates&geoId=103644278&trk=public_jobs_jobs-search-bar_search-submit&currentJobId=4339591541&position=3&pageNum=0&start={increment}'
 
 
-keyword_input = link_get.format("Software", 25)
+link_get = "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Python&location=United%20States&geoId=103644278&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0&start=25"
+
+#keyword_input = link_get.format("Software", 25)
 
 print("---------- Link Here ----------")
 
@@ -24,7 +26,7 @@ Args:
 # Helper Function here
 #link: string val that links to the linkedin site
 #file_to_write: string val that represents txt file name we want to write to
-def link_to_soup(link, file_to_write) -> BeautifulSoup:
+def link_to_soup(link : str, file_to_write : str) -> BeautifulSoup:
     try:
         link_request = requests.get(link)
         soup_object = BeautifulSoup(link_request.text, 'lxml') 
@@ -45,6 +47,8 @@ Args:
 
 Expected reutrn: string type
 
+Depecrated, grab_job_points is more built for the task needed 
+
 """
 def grab_job_desc(soup_object : BeautifulSoup) -> str:
     try:
@@ -52,13 +56,20 @@ def grab_job_desc(soup_object : BeautifulSoup) -> str:
         if(job_description is not None):
             return job_description.get_text(" ", strip=True)
         else:
-            print("Error has occured looking up element")
-            exit(-1)
+            print("Error has occured looking up element from show-more-less-html__markup, returning empty string")
+            return ""
     except:
         print("Error has occured while grabbing job description")
         exit(-1)
     pass    
 
+"""
+Helper function get strip the <tags> from <li> bullet points when finding job points
+Parameters:
+    list_package: list to parse through
+    
+returns: list value of stripped string tags
+"""
 def strip_tag(list_package: list) -> list:
     for i in range(len(list_package)):
         list_package[i] = list_package[i].get_text(strip=True)
@@ -76,8 +87,8 @@ def grab_job_points(soup_object : BeautifulSoup) :
             
         else:
             
-            print("Error has occured looking up element")
-            exit(-1)
+            print("Error has occured looking up element from show-more-less-html__mark, returning empty string")
+            return ""
             
     except:
         print("error has occured grabbing job points in file")
@@ -90,34 +101,74 @@ def grab_company_name(soup_object : BeautifulSoup) -> str:
         if(company_name is not None):
             return company_name.get_text(strip=True)
         else:
-            print("Error has occured looking up element")
-            exit(-1)  
+            print("Error has occured looking up element text from topcard__org-name-link topcard__flavor--black-link returning empty string")
+            return ""
         
     except:
-        print("Error has occured grabbing Company Name")
+        print("Error has occured grabbing topcard__org-name-link topcard__flavor--black-link")
+        exit(-1)
+        
+def grab_date_posted(soup_object : BeautifulSoup) -> str:
+    try:
+        grabbed_date = soup_object.find(class_ = "main-job-card__listdate")
+        if(grabbed_date):
+            return grabbed_date.get_text(strip=True)
+        
+        else:
+            print("No information found from main-job-card__listdatem returning empty string")
+            return ""
+    except:
+        print("No data extracted from main-job-card__listdate")
+        exit(-1)
+      
+
+def grab_job_location(soup_object : BeautifulSoup) -> str:
+    try:
+        job_location = soup_object.find(class_ = "main-job-card__location")
+        if(job_location):
+            return job_location.get_text(strip=True)
+        else:
+            print("Error grabbing job location text from main-job-card__location, returning empty string")
+            return ""
+    except:
+        print(" no data extracted from main-job-card__location")
         exit(-1)
 
-###
-# Creating a dictionary of all the information from the pages of linkedin
-#
-#
-###
+def grab_position(soup_object : BeautifulSoup) -> str:
+    try:
+        position = soup_object.find(class_ = "description__job-criteria-text description__job-criteria-text--criteria")
+        if (position):
+            return position.get_text(strip=True)
+        else:
+            return ""
+        
+    except:
+        
+        exit(-1)
+
+"""
+Creating a dictionary of all the information from the pages of linkedin
+key: company name
+value: 
+"""
 def create_scraped_list():
     pass
 
+"""
 ### Beautiful Soup testing below
 
 #BeautifulSoup object that converts html file to parseable nested data structure
 #soup = BeautifulSoup(get_request.text, 'lxml')
 
 ### Writing file to have a prettier html file
+"""
 
-soup = link_to_soup(link_get, "joblist.txt")
+soup = link_to_soup(link_get, "debug/joblist.txt")
 
 #This is going to output a list of all the tag elements that match this regex form 
 listed_span = soup.find_all(class_="base-card__full-link")
 
-print("--------- listed span --------")
+print("--------- listed job information here --------")
 print(listed_span)
 
 link_list = []
@@ -129,6 +180,7 @@ for i in listed_span:
 
 job_list = []
 
+
 print("--------- Now grabbing the job description from the first + second linked job ---------")
 first_job = link_list[0]
 second_job = link_list[1]
@@ -136,8 +188,8 @@ second_job = link_list[1]
 grabbing_job_website = requests.get(first_job)
 converting_job_link = BeautifulSoup(grabbing_job_website.text, 'lxml')
 
-first_soup =  link_to_soup(first_job, "first_job_html.txt")
-second_soup = link_to_soup(second_job, "second_job_html.txt")
+first_soup =  link_to_soup(first_job, "debug/first_job_html.txt")
+second_soup = link_to_soup(second_job, "debug/second_job_html.txt")
 
 
 
@@ -149,18 +201,18 @@ print("__________________________________________________________")
 
 print(grab_company_name(first_soup))
 print(grab_job_points(first_soup))
-
+print(grab_job_location(first_soup))
+print(grab_date_posted(first_soup))
+print(grab_position(first_soup))
 
 print("__________________________________________________________")
 
-
 #job 2 
 print(grab_company_name(second_soup))
-print(grab_job_points(first_soup))
-
-
-
-    
+print(grab_job_points(second_soup))
+print(grab_job_location(second_soup))
+print(grab_date_posted(second_soup))
+print(grab_position(second_soup))
 
 print("__________________________________________________________")
 

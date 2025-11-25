@@ -2,8 +2,8 @@
 <html>
  <body>
   <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4338266068" data-impression-id="jobs-search-result-0" data-reference-id="Q1UtsU66hjKuXwKVGKdMKw==" data-row="26" data-tracking-id="SckuMvbC7Se62BCoZq6O8Q==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-wrlo-accountants-4338266068?position=1&amp;pageNum=2&amp;refId=Q1UtsU66hjKuXwKVGKdMKw%3D%3D&amp;trackingId=SckuMvbC7Se62BCoZq6O8Q%3D%3D">
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4338385578" data-impression-id="jobs-search-result-0" data-reference-id="pscIY+QKJoYGPBRl6MTDag==" data-row="26" data-tracking-id="OA8xgX/P+tHP2UFnib5IgQ==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-wrlo-accountants-4338385578?position=1&amp;pageNum=2&amp;refId=pscIY%2BQKJoYGPBRl6MTDag%3D%3D&amp;trackingId=OA8xgX%2FP%2BtHP2UFnib5IgQ%3D%3D">
      <span class="sr-only">
       Virtual Data Analyst Full Time (100% Remote)
      </span>
@@ -14,211 +14,6 @@
     <div class="base-search-card__info">
      <h3 class="base-search-card__title">
       Virtual Data Analyst Full Time (100% Remote)
-     </h3>
-     <h4 class="base-search-card__subtitle">
-      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://uk.linkedin.com/company/wrlo-accountants?trk=public_jobs_jserp-result_job-search-card-subtitle">
-       WRLO Accountants
-      </a>
-     </h4>
-     <!-- -->
-     <div class="base-search-card__metadata">
-      <span class="job-search-card__location">
-       Georgia, United States
-      </span>
-      <div class="job-posting-benefits text-sm">
-       <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/8zmuwb93gzlb935fk4ao4z779" data-svg-class-name="job-posting-benefits__icon-svg">
-       </icon>
-       <span class="job-posting-benefits__text">
-        Be an early applicant
-        <!-- -->
-       </span>
-      </div>
-      <time class="job-search-card__listdate--new" datetime="2025-11-21">
-       5 hours ago
-      </time>
-      <!-- -->
-     </div>
-    </div>
-    <!-- -->
-   </div>
-  </li>
-  <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4338266069" data-impression-id="jobs-search-result-1" data-reference-id="Q1UtsU66hjKuXwKVGKdMKw==" data-row="27" data-tracking-id="YqW9zKT3SyRnlmUZLVzYUA==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-wrlo-accountants-4338266069?position=2&amp;pageNum=2&amp;refId=Q1UtsU66hjKuXwKVGKdMKw%3D%3D&amp;trackingId=YqW9zKT3SyRnlmUZLVzYUA%3D%3D">
-     <span class="sr-only">
-      Virtual Data Analyst Full Time (100% Remote)
-     </span>
-    </a>
-    <div class="search-entity-media">
-     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0BAQFpQYYfP0wLVQ/company-logo_100_100/company-logo_100_100/0/1651244906204/wrlo_accountants_logo?e=2147483647&amp;v=beta&amp;t=eZ9BPMwgeXEOeJygX951UVKMWDx_Eulw_Nr83ndlB8Y" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
-    </div>
-    <div class="base-search-card__info">
-     <h3 class="base-search-card__title">
-      Virtual Data Analyst Full Time (100% Remote)
-     </h3>
-     <h4 class="base-search-card__subtitle">
-      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://uk.linkedin.com/company/wrlo-accountants?trk=public_jobs_jserp-result_job-search-card-subtitle">
-       WRLO Accountants
-      </a>
-     </h4>
-     <!-- -->
-     <div class="base-search-card__metadata">
-      <span class="job-search-card__location">
-       Florida, United States
-      </span>
-      <div class="job-posting-benefits text-sm">
-       <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/8zmuwb93gzlb935fk4ao4z779" data-svg-class-name="job-posting-benefits__icon-svg">
-       </icon>
-       <span class="job-posting-benefits__text">
-        Be an early applicant
-        <!-- -->
-       </span>
-      </div>
-      <time class="job-search-card__listdate--new" datetime="2025-11-21">
-       5 hours ago
-      </time>
-      <!-- -->
-     </div>
-    </div>
-    <!-- -->
-   </div>
-  </li>
-  <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4338375605" data-impression-id="jobs-search-result-2" data-reference-id="Q1UtsU66hjKuXwKVGKdMKw==" data-row="28" data-tracking-id="nXyWDowHPx/f3dK9DtrVLA==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-wrlo-accountants-4338375605?position=3&amp;pageNum=2&amp;refId=Q1UtsU66hjKuXwKVGKdMKw%3D%3D&amp;trackingId=nXyWDowHPx%2Ff3dK9DtrVLA%3D%3D">
-     <span class="sr-only">
-      Virtual Data Analyst Full Time (100% Remote)
-     </span>
-    </a>
-    <div class="search-entity-media">
-     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0BAQFpQYYfP0wLVQ/company-logo_100_100/company-logo_100_100/0/1651244906204/wrlo_accountants_logo?e=2147483647&amp;v=beta&amp;t=eZ9BPMwgeXEOeJygX951UVKMWDx_Eulw_Nr83ndlB8Y" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
-    </div>
-    <div class="base-search-card__info">
-     <h3 class="base-search-card__title">
-      Virtual Data Analyst Full Time (100% Remote)
-     </h3>
-     <h4 class="base-search-card__subtitle">
-      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://uk.linkedin.com/company/wrlo-accountants?trk=public_jobs_jserp-result_job-search-card-subtitle">
-       WRLO Accountants
-      </a>
-     </h4>
-     <!-- -->
-     <div class="base-search-card__metadata">
-      <span class="job-search-card__location">
-       Florida, United States
-      </span>
-      <div class="job-posting-benefits text-sm">
-       <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/8zmuwb93gzlb935fk4ao4z779" data-svg-class-name="job-posting-benefits__icon-svg">
-       </icon>
-       <span class="job-posting-benefits__text">
-        Be an early applicant
-        <!-- -->
-       </span>
-      </div>
-      <time class="job-search-card__listdate--new" datetime="2025-11-21">
-       6 hours ago
-      </time>
-      <!-- -->
-     </div>
-    </div>
-    <!-- -->
-   </div>
-  </li>
-  <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4338365636" data-impression-id="jobs-search-result-3" data-reference-id="Q1UtsU66hjKuXwKVGKdMKw==" data-row="29" data-tracking-id="Bgl+m6tYEkVZb2CyRxDzgw==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-wrlo-accountants-4338365636?position=4&amp;pageNum=2&amp;refId=Q1UtsU66hjKuXwKVGKdMKw%3D%3D&amp;trackingId=Bgl%2Bm6tYEkVZb2CyRxDzgw%3D%3D">
-     <span class="sr-only">
-      Virtual Data Analyst - Full Time (100% Remote)
-     </span>
-    </a>
-    <div class="search-entity-media">
-     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0BAQFpQYYfP0wLVQ/company-logo_100_100/company-logo_100_100/0/1651244906204/wrlo_accountants_logo?e=2147483647&amp;v=beta&amp;t=eZ9BPMwgeXEOeJygX951UVKMWDx_Eulw_Nr83ndlB8Y" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
-    </div>
-    <div class="base-search-card__info">
-     <h3 class="base-search-card__title">
-      Virtual Data Analyst - Full Time (100% Remote)
-     </h3>
-     <h4 class="base-search-card__subtitle">
-      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://uk.linkedin.com/company/wrlo-accountants?trk=public_jobs_jserp-result_job-search-card-subtitle">
-       WRLO Accountants
-      </a>
-     </h4>
-     <!-- -->
-     <div class="base-search-card__metadata">
-      <span class="job-search-card__location">
-       California, United States
-      </span>
-      <div class="job-posting-benefits text-sm">
-       <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/8zmuwb93gzlb935fk4ao4z779" data-svg-class-name="job-posting-benefits__icon-svg">
-       </icon>
-       <span class="job-posting-benefits__text">
-        Be an early applicant
-        <!-- -->
-       </span>
-      </div>
-      <time class="job-search-card__listdate--new" datetime="2025-11-21">
-       6 hours ago
-      </time>
-      <!-- -->
-     </div>
-    </div>
-    <!-- -->
-   </div>
-  </li>
-  <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4338355772" data-impression-id="jobs-search-result-4" data-reference-id="Q1UtsU66hjKuXwKVGKdMKw==" data-row="30" data-tracking-id="DuxzamZ9G1ZzbJX6UyVV9A==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-wrlo-accountants-4338355772?position=5&amp;pageNum=2&amp;refId=Q1UtsU66hjKuXwKVGKdMKw%3D%3D&amp;trackingId=DuxzamZ9G1ZzbJX6UyVV9A%3D%3D">
-     <span class="sr-only">
-      Virtual Data Analyst Full Time (100% Remote)
-     </span>
-    </a>
-    <div class="search-entity-media">
-     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0BAQFpQYYfP0wLVQ/company-logo_100_100/company-logo_100_100/0/1651244906204/wrlo_accountants_logo?e=2147483647&amp;v=beta&amp;t=eZ9BPMwgeXEOeJygX951UVKMWDx_Eulw_Nr83ndlB8Y" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
-    </div>
-    <div class="base-search-card__info">
-     <h3 class="base-search-card__title">
-      Virtual Data Analyst Full Time (100% Remote)
-     </h3>
-     <h4 class="base-search-card__subtitle">
-      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://uk.linkedin.com/company/wrlo-accountants?trk=public_jobs_jserp-result_job-search-card-subtitle">
-       WRLO Accountants
-      </a>
-     </h4>
-     <!-- -->
-     <div class="base-search-card__metadata">
-      <span class="job-search-card__location">
-       Texas, United States
-      </span>
-      <div class="job-posting-benefits text-sm">
-       <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/8zmuwb93gzlb935fk4ao4z779" data-svg-class-name="job-posting-benefits__icon-svg">
-       </icon>
-       <span class="job-posting-benefits__text">
-        Be an early applicant
-        <!-- -->
-       </span>
-      </div>
-      <time class="job-search-card__listdate--new" datetime="2025-11-21">
-       6 hours ago
-      </time>
-      <!-- -->
-     </div>
-    </div>
-    <!-- -->
-   </div>
-  </li>
-  <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4338285976" data-impression-id="jobs-search-result-5" data-reference-id="Q1UtsU66hjKuXwKVGKdMKw==" data-row="31" data-tracking-id="DLeda0nJi3L6mXGahY6SCQ==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-wrlo-accountants-4338285976?position=6&amp;pageNum=2&amp;refId=Q1UtsU66hjKuXwKVGKdMKw%3D%3D&amp;trackingId=DLeda0nJi3L6mXGahY6SCQ%3D%3D">
-     <span class="sr-only">
-      Virtual Data Analyst - Full Time (100% Remote)
-     </span>
-    </a>
-    <div class="search-entity-media">
-     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0BAQFpQYYfP0wLVQ/company-logo_100_100/company-logo_100_100/0/1651244906204/wrlo_accountants_logo?e=2147483647&amp;v=beta&amp;t=eZ9BPMwgeXEOeJygX951UVKMWDx_Eulw_Nr83ndlB8Y" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
-    </div>
-    <div class="base-search-card__info">
-     <h3 class="base-search-card__title">
-      Virtual Data Analyst - Full Time (100% Remote)
      </h3>
      <h4 class="base-search-card__subtitle">
       <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://uk.linkedin.com/company/wrlo-accountants?trk=public_jobs_jserp-result_job-search-card-subtitle">
@@ -238,8 +33,8 @@
         <!-- -->
        </span>
       </div>
-      <time class="job-search-card__listdate--new" datetime="2025-11-21">
-       6 hours ago
+      <time class="job-search-card__listdate" datetime="2025-11-21">
+       1 day ago
       </time>
       <!-- -->
      </div>
@@ -248,10 +43,10 @@
    </div>
   </li>
   <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4338365167" data-impression-id="jobs-search-result-6" data-reference-id="Q1UtsU66hjKuXwKVGKdMKw==" data-row="32" data-tracking-id="snYtCFYBV3elSI7O7cUfvg==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/ml-scientist-at-mlabs-4338365167?position=7&amp;pageNum=2&amp;refId=Q1UtsU66hjKuXwKVGKdMKw%3D%3D&amp;trackingId=snYtCFYBV3elSI7O7cUfvg%3D%3D">
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4338444124" data-impression-id="jobs-search-result-1" data-reference-id="pscIY+QKJoYGPBRl6MTDag==" data-row="27" data-tracking-id="OETuyohBnhnSiFZb8CHVzA==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/data-analyst-at-mlabs-4338444124?position=2&amp;pageNum=2&amp;refId=pscIY%2BQKJoYGPBRl6MTDag%3D%3D&amp;trackingId=OETuyohBnhnSiFZb8CHVzA%3D%3D">
      <span class="sr-only">
-      ML Scientist
+      Data Analyst
      </span>
     </a>
     <div class="search-entity-media">
@@ -259,7 +54,7 @@
     </div>
     <div class="base-search-card__info">
      <h3 class="base-search-card__title">
-      ML Scientist
+      Data Analyst
      </h3>
      <h4 class="base-search-card__subtitle">
       <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://uk.linkedin.com/company/mlabsconsulting?trk=public_jobs_jserp-result_job-search-card-subtitle">
@@ -272,8 +67,8 @@
        New York, NY
       </span>
       <!-- -->
-      <time class="job-search-card__listdate--new" datetime="2025-11-21">
-       7 hours ago
+      <time class="job-search-card__listdate" datetime="2025-11-21">
+       1 day ago
       </time>
       <!-- -->
      </div>
@@ -282,8 +77,8 @@
    </div>
   </li>
   <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4338377127" data-impression-id="jobs-search-result-7" data-reference-id="Q1UtsU66hjKuXwKVGKdMKw==" data-row="33" data-tracking-id="23g4KLdoZOSXwLxI1R3ITg==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/financial-data-analyst-at-austin-capital-bank-4338377127?position=8&amp;pageNum=2&amp;refId=Q1UtsU66hjKuXwKVGKdMKw%3D%3D&amp;trackingId=23g4KLdoZOSXwLxI1R3ITg%3D%3D">
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4338377127" data-impression-id="jobs-search-result-2" data-reference-id="pscIY+QKJoYGPBRl6MTDag==" data-row="28" data-tracking-id="hzn94woVvGzCGq0N3znb3Q==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/financial-data-analyst-at-austin-capital-bank-4338377127?position=3&amp;pageNum=2&amp;refId=pscIY%2BQKJoYGPBRl6MTDag%3D%3D&amp;trackingId=hzn94woVvGzCGq0N3znb3Q%3D%3D">
      <span class="sr-only">
       Financial Data Analyst
      </span>
@@ -306,8 +101,8 @@
        Austin, TX
       </span>
       <!-- -->
-      <time class="job-search-card__listdate--new" datetime="2025-11-21">
-       1 hour ago
+      <time class="job-search-card__listdate" datetime="2025-11-21">
+       1 day ago
       </time>
       <!-- -->
      </div>
@@ -316,8 +111,49 @@
    </div>
   </li>
   <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4338335550" data-impression-id="jobs-search-result-8" data-reference-id="Q1UtsU66hjKuXwKVGKdMKw==" data-row="34" data-tracking-id="THxloCdhHc0mQmmoAeWdyQ==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-wrlo-accountants-4338335550?position=9&amp;pageNum=2&amp;refId=Q1UtsU66hjKuXwKVGKdMKw%3D%3D&amp;trackingId=THxloCdhHc0mQmmoAeWdyQ%3D%3D">
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4338335551" data-impression-id="jobs-search-result-3" data-reference-id="pscIY+QKJoYGPBRl6MTDag==" data-row="29" data-tracking-id="1KPBlb20/0m6UQpBahN2MQ==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-wrlo-accountants-4338335551?position=4&amp;pageNum=2&amp;refId=pscIY%2BQKJoYGPBRl6MTDag%3D%3D&amp;trackingId=1KPBlb20%2F0m6UQpBahN2MQ%3D%3D">
+     <span class="sr-only">
+      Virtual Data Analyst / Entry Level (Remote)
+     </span>
+    </a>
+    <div class="search-entity-media">
+     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0BAQFpQYYfP0wLVQ/company-logo_100_100/company-logo_100_100/0/1651244906204/wrlo_accountants_logo?e=2147483647&amp;v=beta&amp;t=eZ9BPMwgeXEOeJygX951UVKMWDx_Eulw_Nr83ndlB8Y" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+    </div>
+    <div class="base-search-card__info">
+     <h3 class="base-search-card__title">
+      Virtual Data Analyst / Entry Level (Remote)
+     </h3>
+     <h4 class="base-search-card__subtitle">
+      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://uk.linkedin.com/company/wrlo-accountants?trk=public_jobs_jserp-result_job-search-card-subtitle">
+       WRLO Accountants
+      </a>
+     </h4>
+     <!-- -->
+     <div class="base-search-card__metadata">
+      <span class="job-search-card__location">
+       Florida, United States
+      </span>
+      <div class="job-posting-benefits text-sm">
+       <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/8zmuwb93gzlb935fk4ao4z779" data-svg-class-name="job-posting-benefits__icon-svg">
+       </icon>
+       <span class="job-posting-benefits__text">
+        Be an early applicant
+        <!-- -->
+       </span>
+      </div>
+      <time class="job-search-card__listdate" datetime="2025-11-21">
+       1 day ago
+      </time>
+      <!-- -->
+     </div>
+    </div>
+    <!-- -->
+   </div>
+  </li>
+  <li>
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4338335550" data-impression-id="jobs-search-result-4" data-reference-id="pscIY+QKJoYGPBRl6MTDag==" data-row="30" data-tracking-id="JzflRtnR874GCDnenjZv+g==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-wrlo-accountants-4338335550?position=5&amp;pageNum=2&amp;refId=pscIY%2BQKJoYGPBRl6MTDag%3D%3D&amp;trackingId=JzflRtnR874GCDnenjZv%2Bg%3D%3D">
      <span class="sr-only">
       Virtual Data Analyst / Entry Level (Remote)
      </span>
@@ -339,16 +175,9 @@
       <span class="job-search-card__location">
        Pennsylvania, United States
       </span>
-      <div class="job-posting-benefits text-sm">
-       <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/8zmuwb93gzlb935fk4ao4z779" data-svg-class-name="job-posting-benefits__icon-svg">
-       </icon>
-       <span class="job-posting-benefits__text">
-        Be an early applicant
-        <!-- -->
-       </span>
-      </div>
-      <time class="job-search-card__listdate--new" datetime="2025-11-21">
-       6 hours ago
+      <!-- -->
+      <time class="job-search-card__listdate" datetime="2025-11-21">
+       1 day ago
       </time>
       <!-- -->
      </div>
@@ -357,10 +186,85 @@
    </div>
   </li>
   <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4338415566" data-impression-id="jobs-search-result-9" data-reference-id="Q1UtsU66hjKuXwKVGKdMKw==" data-row="35" data-tracking-id="qOcxN10emljzmegqt7seXA==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-wrlo-accountants-4338415566?position=10&amp;pageNum=2&amp;refId=Q1UtsU66hjKuXwKVGKdMKw%3D%3D&amp;trackingId=qOcxN10emljzmegqt7seXA%3D%3D">
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4333326705" data-impression-id="jobs-search-result-5" data-reference-id="pscIY+QKJoYGPBRl6MTDag==" data-row="31" data-tracking-id="wClfbc3ngbsNKI/HudE+Bg==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/senior-manager-product-operations-%E2%80%93-business-platform-at-linkedin-4333326705?position=6&amp;pageNum=2&amp;refId=pscIY%2BQKJoYGPBRl6MTDag%3D%3D&amp;trackingId=wClfbc3ngbsNKI%2FHudE%2BBg%3D%3D">
      <span class="sr-only">
-      Virtual Data Analyst Full Time (100% Remote)
+      Senior Manager, Product Operations – Business Platform
+     </span>
+    </a>
+    <div class="search-entity-media">
+     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=2147483647&amp;v=beta&amp;t=_PvUQac1LcQjfzQ33gtxFqjvIxBbtsM9ZqIxLs5QcFI" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+    </div>
+    <div class="base-search-card__info">
+     <h3 class="base-search-card__title">
+      Senior Manager, Product Operations – Business Platform
+     </h3>
+     <h4 class="base-search-card__subtitle">
+      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/linkedin?trk=public_jobs_jserp-result_job-search-card-subtitle">
+       LinkedIn
+      </a>
+     </h4>
+     <!-- -->
+     <div class="base-search-card__metadata">
+      <span class="job-search-card__location">
+       New York, NY
+      </span>
+      <div class="job-posting-benefits text-sm">
+       <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/3p1v0uhy7uq0cm5zdvzp4eo18" data-svg-class-name="job-posting-benefits__icon-svg">
+       </icon>
+       <span class="job-posting-benefits__text">
+        Actively Hiring
+        <!-- -->
+       </span>
+      </div>
+      <time class="job-search-card__listdate--new" datetime="2025-11-22">
+       15 hours ago
+      </time>
+      <!-- -->
+     </div>
+    </div>
+    <!-- -->
+   </div>
+  </li>
+  <li>
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4338365167" data-impression-id="jobs-search-result-6" data-reference-id="pscIY+QKJoYGPBRl6MTDag==" data-row="32" data-tracking-id="foJBtTNKEeuRhnFtsZckLQ==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/ml-scientist-at-mlabs-4338365167?position=7&amp;pageNum=2&amp;refId=pscIY%2BQKJoYGPBRl6MTDag%3D%3D&amp;trackingId=foJBtTNKEeuRhnFtsZckLQ%3D%3D">
+     <span class="sr-only">
+      ML Scientist
+     </span>
+    </a>
+    <div class="search-entity-media">
+     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/D4E0BAQGv8uRP_dCrEA/company-logo_100_100/company-logo_100_100/0/1665415880554/mlabsconsulting_logo?e=2147483647&amp;v=beta&amp;t=b47Kvt6bv7PLKt27WLg2Hfzc3K8wTSPbR-Im4CdS7i0" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+    </div>
+    <div class="base-search-card__info">
+     <h3 class="base-search-card__title">
+      ML Scientist
+     </h3>
+     <h4 class="base-search-card__subtitle">
+      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://uk.linkedin.com/company/mlabsconsulting?trk=public_jobs_jserp-result_job-search-card-subtitle">
+       MLabs
+      </a>
+     </h4>
+     <!-- -->
+     <div class="base-search-card__metadata">
+      <span class="job-search-card__location">
+       New York, NY
+      </span>
+      <!-- -->
+      <time class="job-search-card__listdate" datetime="2025-11-21">
+       1 day ago
+      </time>
+      <!-- -->
+     </div>
+    </div>
+    <!-- -->
+   </div>
+  </li>
+  <li>
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4338335704" data-impression-id="jobs-search-result-7" data-reference-id="pscIY+QKJoYGPBRl6MTDag==" data-row="33" data-tracking-id="ULcuyqLR0hQfXTtRWzxm5Q==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/data-analyst-remote-at-wrlo-accountants-4338335704?position=8&amp;pageNum=2&amp;refId=pscIY%2BQKJoYGPBRl6MTDag%3D%3D&amp;trackingId=ULcuyqLR0hQfXTtRWzxm5Q%3D%3D">
+     <span class="sr-only">
+      Data Analyst Remote
      </span>
     </a>
     <div class="search-entity-media">
@@ -368,7 +272,7 @@
     </div>
     <div class="base-search-card__info">
      <h3 class="base-search-card__title">
-      Virtual Data Analyst Full Time (100% Remote)
+      Data Analyst Remote
      </h3>
      <h4 class="base-search-card__subtitle">
       <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://uk.linkedin.com/company/wrlo-accountants?trk=public_jobs_jserp-result_job-search-card-subtitle">
@@ -378,7 +282,7 @@
      <!-- -->
      <div class="base-search-card__metadata">
       <span class="job-search-card__location">
-       Pennsylvania, United States
+       Texas, United States
       </span>
       <div class="job-posting-benefits text-sm">
        <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/8zmuwb93gzlb935fk4ao4z779" data-svg-class-name="job-posting-benefits__icon-svg">
@@ -388,8 +292,83 @@
         <!-- -->
        </span>
       </div>
-      <time class="job-search-card__listdate--new" datetime="2025-11-21">
-       5 hours ago
+      <time class="job-search-card__listdate" datetime="2025-11-21">
+       1 day ago
+      </time>
+      <!-- -->
+     </div>
+    </div>
+    <!-- -->
+   </div>
+  </li>
+  <li>
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4338375651" data-impression-id="jobs-search-result-8" data-reference-id="pscIY+QKJoYGPBRl6MTDag==" data-row="34" data-tracking-id="Ivgx1iuAs8cyZ9RlE8ckBg==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/data-analyst-remote-at-wrlo-accountants-4338375651?position=9&amp;pageNum=2&amp;refId=pscIY%2BQKJoYGPBRl6MTDag%3D%3D&amp;trackingId=Ivgx1iuAs8cyZ9RlE8ckBg%3D%3D">
+     <span class="sr-only">
+      Data Analyst Remote
+     </span>
+    </a>
+    <div class="search-entity-media">
+     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0BAQFpQYYfP0wLVQ/company-logo_100_100/company-logo_100_100/0/1651244906204/wrlo_accountants_logo?e=2147483647&amp;v=beta&amp;t=eZ9BPMwgeXEOeJygX951UVKMWDx_Eulw_Nr83ndlB8Y" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+    </div>
+    <div class="base-search-card__info">
+     <h3 class="base-search-card__title">
+      Data Analyst Remote
+     </h3>
+     <h4 class="base-search-card__subtitle">
+      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://uk.linkedin.com/company/wrlo-accountants?trk=public_jobs_jserp-result_job-search-card-subtitle">
+       WRLO Accountants
+      </a>
+     </h4>
+     <!-- -->
+     <div class="base-search-card__metadata">
+      <span class="job-search-card__location">
+       Texas, United States
+      </span>
+      <!-- -->
+      <time class="job-search-card__listdate" datetime="2025-11-21">
+       1 day ago
+      </time>
+      <!-- -->
+     </div>
+    </div>
+    <!-- -->
+   </div>
+  </li>
+  <li>
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4337646348" data-impression-id="jobs-search-result-9" data-reference-id="pscIY+QKJoYGPBRl6MTDag==" data-row="35" data-tracking-id="ft29En7pqzf2M17uE8JFiw==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/data-analyst-remote-at-wrlo-accountants-4337646348?position=10&amp;pageNum=2&amp;refId=pscIY%2BQKJoYGPBRl6MTDag%3D%3D&amp;trackingId=ft29En7pqzf2M17uE8JFiw%3D%3D">
+     <span class="sr-only">
+      Data Analyst Remote
+     </span>
+    </a>
+    <div class="search-entity-media">
+     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0BAQFpQYYfP0wLVQ/company-logo_100_100/company-logo_100_100/0/1651244906204/wrlo_accountants_logo?e=2147483647&amp;v=beta&amp;t=eZ9BPMwgeXEOeJygX951UVKMWDx_Eulw_Nr83ndlB8Y" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+    </div>
+    <div class="base-search-card__info">
+     <h3 class="base-search-card__title">
+      Data Analyst Remote
+     </h3>
+     <h4 class="base-search-card__subtitle">
+      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://uk.linkedin.com/company/wrlo-accountants?trk=public_jobs_jserp-result_job-search-card-subtitle">
+       WRLO Accountants
+      </a>
+     </h4>
+     <!-- -->
+     <div class="base-search-card__metadata">
+      <span class="job-search-card__location">
+       California, United States
+      </span>
+      <div class="job-posting-benefits text-sm">
+       <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/8zmuwb93gzlb935fk4ao4z779" data-svg-class-name="job-posting-benefits__icon-svg">
+       </icon>
+       <span class="job-posting-benefits__text">
+        Be an early applicant
+        <!-- -->
+       </span>
+      </div>
+      <time class="job-search-card__listdate" datetime="2025-11-21">
+       1 day ago
       </time>
       <!-- -->
      </div>
