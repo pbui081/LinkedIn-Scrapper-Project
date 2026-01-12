@@ -2,131 +2,22 @@
 <html>
  <body>
   <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4338385578" data-impression-id="jobs-search-result-0" data-reference-id="pscIY+QKJoYGPBRl6MTDag==" data-row="26" data-tracking-id="OA8xgX/P+tHP2UFnib5IgQ==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-wrlo-accountants-4338385578?position=1&amp;pageNum=2&amp;refId=pscIY%2BQKJoYGPBRl6MTDag%3D%3D&amp;trackingId=OA8xgX%2FP%2BtHP2UFnib5IgQ%3D%3D">
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4358289134" data-impression-id="jobs-search-result-0" data-reference-id="Xa9w1O1VMssAtOKV9XxpLA==" data-row="26" data-tracking-id="WELeKKAZYpnsvBdOvcAqpQ==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-the-chair-centre-group-4358289134?position=1&amp;pageNum=2&amp;refId=Xa9w1O1VMssAtOKV9XxpLA%3D%3D&amp;trackingId=WELeKKAZYpnsvBdOvcAqpQ%3D%3D">
      <span class="sr-only">
       Virtual Data Analyst Full Time (100% Remote)
      </span>
     </a>
     <div class="search-entity-media">
-     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0BAQFpQYYfP0wLVQ/company-logo_100_100/company-logo_100_100/0/1651244906204/wrlo_accountants_logo?e=2147483647&amp;v=beta&amp;t=eZ9BPMwgeXEOeJygX951UVKMWDx_Eulw_Nr83ndlB8Y" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0BAQEYZD0-7sD59A/company-logo_100_100/company-logo_100_100/0/1631309706365?e=2147483647&amp;v=beta&amp;t=ws6bq7A8h8wJ6QsugZd3qq35wzrcqHMamsk6pXL1feI" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
     </div>
     <div class="base-search-card__info">
      <h3 class="base-search-card__title">
       Virtual Data Analyst Full Time (100% Remote)
      </h3>
      <h4 class="base-search-card__subtitle">
-      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://uk.linkedin.com/company/wrlo-accountants?trk=public_jobs_jserp-result_job-search-card-subtitle">
-       WRLO Accountants
-      </a>
-     </h4>
-     <!-- -->
-     <div class="base-search-card__metadata">
-      <span class="job-search-card__location">
-       Pennsylvania, United States
-      </span>
-      <div class="job-posting-benefits text-sm">
-       <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/8zmuwb93gzlb935fk4ao4z779" data-svg-class-name="job-posting-benefits__icon-svg">
-       </icon>
-       <span class="job-posting-benefits__text">
-        Be an early applicant
-        <!-- -->
-       </span>
-      </div>
-      <time class="job-search-card__listdate" datetime="2025-11-21">
-       1 day ago
-      </time>
-      <!-- -->
-     </div>
-    </div>
-    <!-- -->
-   </div>
-  </li>
-  <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4338444124" data-impression-id="jobs-search-result-1" data-reference-id="pscIY+QKJoYGPBRl6MTDag==" data-row="27" data-tracking-id="OETuyohBnhnSiFZb8CHVzA==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/data-analyst-at-mlabs-4338444124?position=2&amp;pageNum=2&amp;refId=pscIY%2BQKJoYGPBRl6MTDag%3D%3D&amp;trackingId=OETuyohBnhnSiFZb8CHVzA%3D%3D">
-     <span class="sr-only">
-      Data Analyst
-     </span>
-    </a>
-    <div class="search-entity-media">
-     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/D4E0BAQGv8uRP_dCrEA/company-logo_100_100/company-logo_100_100/0/1665415880554/mlabsconsulting_logo?e=2147483647&amp;v=beta&amp;t=b47Kvt6bv7PLKt27WLg2Hfzc3K8wTSPbR-Im4CdS7i0" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
-    </div>
-    <div class="base-search-card__info">
-     <h3 class="base-search-card__title">
-      Data Analyst
-     </h3>
-     <h4 class="base-search-card__subtitle">
-      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://uk.linkedin.com/company/mlabsconsulting?trk=public_jobs_jserp-result_job-search-card-subtitle">
-       MLabs
-      </a>
-     </h4>
-     <!-- -->
-     <div class="base-search-card__metadata">
-      <span class="job-search-card__location">
-       New York, NY
-      </span>
-      <!-- -->
-      <time class="job-search-card__listdate" datetime="2025-11-21">
-       1 day ago
-      </time>
-      <!-- -->
-     </div>
-    </div>
-    <!-- -->
-   </div>
-  </li>
-  <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4338377127" data-impression-id="jobs-search-result-2" data-reference-id="pscIY+QKJoYGPBRl6MTDag==" data-row="28" data-tracking-id="hzn94woVvGzCGq0N3znb3Q==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/financial-data-analyst-at-austin-capital-bank-4338377127?position=3&amp;pageNum=2&amp;refId=pscIY%2BQKJoYGPBRl6MTDag%3D%3D&amp;trackingId=hzn94woVvGzCGq0N3znb3Q%3D%3D">
-     <span class="sr-only">
-      Financial Data Analyst
-     </span>
-    </a>
-    <div class="search-entity-media">
-     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/D4E0BAQFpQ7XJlyhBnw/company-logo_100_100/B4EZWBCLHwHcAQ-/0/1741626586367/austin_capital_bank_logo?e=2147483647&amp;v=beta&amp;t=UzkZgCq-heqsOSZD6eSVPh1_fFewFpwU_coqzBsuaKk" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
-    </div>
-    <div class="base-search-card__info">
-     <h3 class="base-search-card__title">
-      Financial Data Analyst
-     </h3>
-     <h4 class="base-search-card__subtitle">
-      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/austin-capital-bank?trk=public_jobs_jserp-result_job-search-card-subtitle">
-       Austin Capital Bank
-      </a>
-     </h4>
-     <!-- -->
-     <div class="base-search-card__metadata">
-      <span class="job-search-card__location">
-       Austin, TX
-      </span>
-      <!-- -->
-      <time class="job-search-card__listdate" datetime="2025-11-21">
-       1 day ago
-      </time>
-      <!-- -->
-     </div>
-    </div>
-    <!-- -->
-   </div>
-  </li>
-  <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4338335551" data-impression-id="jobs-search-result-3" data-reference-id="pscIY+QKJoYGPBRl6MTDag==" data-row="29" data-tracking-id="1KPBlb20/0m6UQpBahN2MQ==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-wrlo-accountants-4338335551?position=4&amp;pageNum=2&amp;refId=pscIY%2BQKJoYGPBRl6MTDag%3D%3D&amp;trackingId=1KPBlb20%2F0m6UQpBahN2MQ%3D%3D">
-     <span class="sr-only">
-      Virtual Data Analyst / Entry Level (Remote)
-     </span>
-    </a>
-    <div class="search-entity-media">
-     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0BAQFpQYYfP0wLVQ/company-logo_100_100/company-logo_100_100/0/1651244906204/wrlo_accountants_logo?e=2147483647&amp;v=beta&amp;t=eZ9BPMwgeXEOeJygX951UVKMWDx_Eulw_Nr83ndlB8Y" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
-    </div>
-    <div class="base-search-card__info">
-     <h3 class="base-search-card__title">
-      Virtual Data Analyst / Entry Level (Remote)
-     </h3>
-     <h4 class="base-search-card__subtitle">
-      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://uk.linkedin.com/company/wrlo-accountants?trk=public_jobs_jserp-result_job-search-card-subtitle">
-       WRLO Accountants
+      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://ng.linkedin.com/company/the-chair-centre-limited?trk=public_jobs_jserp-result_job-search-card-subtitle">
+       The Chair Centre Group
       </a>
      </h4>
      <!-- -->
@@ -142,8 +33,8 @@
         <!-- -->
        </span>
       </div>
-      <time class="job-search-card__listdate" datetime="2025-11-21">
-       1 day ago
+      <time class="job-search-card__listdate--new" datetime="2026-01-07">
+       10 hours ago
       </time>
       <!-- -->
      </div>
@@ -152,62 +43,28 @@
    </div>
   </li>
   <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4338335550" data-impression-id="jobs-search-result-4" data-reference-id="pscIY+QKJoYGPBRl6MTDag==" data-row="30" data-tracking-id="JzflRtnR874GCDnenjZv+g==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-wrlo-accountants-4338335550?position=5&amp;pageNum=2&amp;refId=pscIY%2BQKJoYGPBRl6MTDag%3D%3D&amp;trackingId=JzflRtnR874GCDnenjZv%2Bg%3D%3D">
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4358401214" data-impression-id="jobs-search-result-1" data-reference-id="Xa9w1O1VMssAtOKV9XxpLA==" data-row="27" data-tracking-id="wuJgXHyXUedUd2MotZ9pTA==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/software-engineer-at-cardone-ventures-4358401214?position=2&amp;pageNum=2&amp;refId=Xa9w1O1VMssAtOKV9XxpLA%3D%3D&amp;trackingId=wuJgXHyXUedUd2MotZ9pTA%3D%3D">
      <span class="sr-only">
-      Virtual Data Analyst / Entry Level (Remote)
+      Software Engineer
      </span>
     </a>
     <div class="search-entity-media">
-     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0BAQFpQYYfP0wLVQ/company-logo_100_100/company-logo_100_100/0/1651244906204/wrlo_accountants_logo?e=2147483647&amp;v=beta&amp;t=eZ9BPMwgeXEOeJygX951UVKMWDx_Eulw_Nr83ndlB8Y" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0BAQE19yObAWcVXQ/company-logo_100_100/company-logo_100_100/0/1646842956675/cardoneventures_logo?e=2147483647&amp;v=beta&amp;t=kJ3CSOoRLZEyCGmvOeX10ttmUGBId6gPp-skXljh2R4" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
     </div>
     <div class="base-search-card__info">
      <h3 class="base-search-card__title">
-      Virtual Data Analyst / Entry Level (Remote)
+      Software Engineer
      </h3>
      <h4 class="base-search-card__subtitle">
-      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://uk.linkedin.com/company/wrlo-accountants?trk=public_jobs_jserp-result_job-search-card-subtitle">
-       WRLO Accountants
+      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/cardoneventures?trk=public_jobs_jserp-result_job-search-card-subtitle">
+       Cardone Ventures
       </a>
      </h4>
      <!-- -->
      <div class="base-search-card__metadata">
       <span class="job-search-card__location">
-       Pennsylvania, United States
-      </span>
-      <!-- -->
-      <time class="job-search-card__listdate" datetime="2025-11-21">
-       1 day ago
-      </time>
-      <!-- -->
-     </div>
-    </div>
-    <!-- -->
-   </div>
-  </li>
-  <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4333326705" data-impression-id="jobs-search-result-5" data-reference-id="pscIY+QKJoYGPBRl6MTDag==" data-row="31" data-tracking-id="wClfbc3ngbsNKI/HudE+Bg==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/senior-manager-product-operations-%E2%80%93-business-platform-at-linkedin-4333326705?position=6&amp;pageNum=2&amp;refId=pscIY%2BQKJoYGPBRl6MTDag%3D%3D&amp;trackingId=wClfbc3ngbsNKI%2FHudE%2BBg%3D%3D">
-     <span class="sr-only">
-      Senior Manager, Product Operations – Business Platform
-     </span>
-    </a>
-    <div class="search-entity-media">
-     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=2147483647&amp;v=beta&amp;t=_PvUQac1LcQjfzQ33gtxFqjvIxBbtsM9ZqIxLs5QcFI" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
-    </div>
-    <div class="base-search-card__info">
-     <h3 class="base-search-card__title">
-      Senior Manager, Product Operations – Business Platform
-     </h3>
-     <h4 class="base-search-card__subtitle">
-      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/linkedin?trk=public_jobs_jserp-result_job-search-card-subtitle">
-       LinkedIn
-      </a>
-     </h4>
-     <!-- -->
-     <div class="base-search-card__metadata">
-      <span class="job-search-card__location">
-       New York, NY
+       Scottsdale, AZ
       </span>
       <div class="job-posting-benefits text-sm">
        <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/3p1v0uhy7uq0cm5zdvzp4eo18" data-svg-class-name="job-posting-benefits__icon-svg">
@@ -217,41 +74,7 @@
         <!-- -->
        </span>
       </div>
-      <time class="job-search-card__listdate--new" datetime="2025-11-22">
-       15 hours ago
-      </time>
-      <!-- -->
-     </div>
-    </div>
-    <!-- -->
-   </div>
-  </li>
-  <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4338365167" data-impression-id="jobs-search-result-6" data-reference-id="pscIY+QKJoYGPBRl6MTDag==" data-row="32" data-tracking-id="foJBtTNKEeuRhnFtsZckLQ==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/ml-scientist-at-mlabs-4338365167?position=7&amp;pageNum=2&amp;refId=pscIY%2BQKJoYGPBRl6MTDag%3D%3D&amp;trackingId=foJBtTNKEeuRhnFtsZckLQ%3D%3D">
-     <span class="sr-only">
-      ML Scientist
-     </span>
-    </a>
-    <div class="search-entity-media">
-     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/D4E0BAQGv8uRP_dCrEA/company-logo_100_100/company-logo_100_100/0/1665415880554/mlabsconsulting_logo?e=2147483647&amp;v=beta&amp;t=b47Kvt6bv7PLKt27WLg2Hfzc3K8wTSPbR-Im4CdS7i0" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
-    </div>
-    <div class="base-search-card__info">
-     <h3 class="base-search-card__title">
-      ML Scientist
-     </h3>
-     <h4 class="base-search-card__subtitle">
-      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://uk.linkedin.com/company/mlabsconsulting?trk=public_jobs_jserp-result_job-search-card-subtitle">
-       MLabs
-      </a>
-     </h4>
-     <!-- -->
-     <div class="base-search-card__metadata">
-      <span class="job-search-card__location">
-       New York, NY
-      </span>
-      <!-- -->
-      <time class="job-search-card__listdate" datetime="2025-11-21">
+      <time class="job-search-card__listdate" datetime="2026-01-06">
        1 day ago
       </time>
       <!-- -->
@@ -261,22 +84,186 @@
    </div>
   </li>
   <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4338335704" data-impression-id="jobs-search-result-7" data-reference-id="pscIY+QKJoYGPBRl6MTDag==" data-row="33" data-tracking-id="ULcuyqLR0hQfXTtRWzxm5Q==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/data-analyst-remote-at-wrlo-accountants-4338335704?position=8&amp;pageNum=2&amp;refId=pscIY%2BQKJoYGPBRl6MTDag%3D%3D&amp;trackingId=ULcuyqLR0hQfXTtRWzxm5Q%3D%3D">
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4358138514" data-impression-id="jobs-search-result-2" data-reference-id="Xa9w1O1VMssAtOKV9XxpLA==" data-row="28" data-tracking-id="nt2QJ7V25l0Y0el/XlkuPg==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-the-chair-centre-group-4358138514?position=3&amp;pageNum=2&amp;refId=Xa9w1O1VMssAtOKV9XxpLA%3D%3D&amp;trackingId=nt2QJ7V25l0Y0el%2FXlkuPg%3D%3D">
      <span class="sr-only">
-      Data Analyst Remote
+      Virtual Data Analyst / Entry Level (Remote)
      </span>
     </a>
     <div class="search-entity-media">
-     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0BAQFpQYYfP0wLVQ/company-logo_100_100/company-logo_100_100/0/1651244906204/wrlo_accountants_logo?e=2147483647&amp;v=beta&amp;t=eZ9BPMwgeXEOeJygX951UVKMWDx_Eulw_Nr83ndlB8Y" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0BAQEYZD0-7sD59A/company-logo_100_100/company-logo_100_100/0/1631309706365?e=2147483647&amp;v=beta&amp;t=ws6bq7A8h8wJ6QsugZd3qq35wzrcqHMamsk6pXL1feI" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
     </div>
     <div class="base-search-card__info">
      <h3 class="base-search-card__title">
-      Data Analyst Remote
+      Virtual Data Analyst / Entry Level (Remote)
      </h3>
      <h4 class="base-search-card__subtitle">
-      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://uk.linkedin.com/company/wrlo-accountants?trk=public_jobs_jserp-result_job-search-card-subtitle">
-       WRLO Accountants
+      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://ng.linkedin.com/company/the-chair-centre-limited?trk=public_jobs_jserp-result_job-search-card-subtitle">
+       The Chair Centre Group
+      </a>
+     </h4>
+     <!-- -->
+     <div class="base-search-card__metadata">
+      <span class="job-search-card__location">
+       Illinois, United States
+      </span>
+      <div class="job-posting-benefits text-sm">
+       <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/8zmuwb93gzlb935fk4ao4z779" data-svg-class-name="job-posting-benefits__icon-svg">
+       </icon>
+       <span class="job-posting-benefits__text">
+        Be an early applicant
+        <!-- -->
+       </span>
+      </div>
+      <time class="job-search-card__listdate--new" datetime="2026-01-07">
+       17 hours ago
+      </time>
+      <!-- -->
+     </div>
+    </div>
+    <!-- -->
+   </div>
+  </li>
+  <li>
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4358367658" data-impression-id="jobs-search-result-3" data-reference-id="Xa9w1O1VMssAtOKV9XxpLA==" data-row="29" data-tracking-id="6HGlgkyB9RbOiph2WQhGHw==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-the-chair-centre-group-4358367658?position=4&amp;pageNum=2&amp;refId=Xa9w1O1VMssAtOKV9XxpLA%3D%3D&amp;trackingId=6HGlgkyB9RbOiph2WQhGHw%3D%3D">
+     <span class="sr-only">
+      Virtual Data Analyst / Entry Level (Remote)
+     </span>
+    </a>
+    <div class="search-entity-media">
+     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0BAQEYZD0-7sD59A/company-logo_100_100/company-logo_100_100/0/1631309706365?e=2147483647&amp;v=beta&amp;t=ws6bq7A8h8wJ6QsugZd3qq35wzrcqHMamsk6pXL1feI" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+    </div>
+    <div class="base-search-card__info">
+     <h3 class="base-search-card__title">
+      Virtual Data Analyst / Entry Level (Remote)
+     </h3>
+     <h4 class="base-search-card__subtitle">
+      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://ng.linkedin.com/company/the-chair-centre-limited?trk=public_jobs_jserp-result_job-search-card-subtitle">
+       The Chair Centre Group
+      </a>
+     </h4>
+     <!-- -->
+     <div class="base-search-card__metadata">
+      <span class="job-search-card__location">
+       Florida, United States
+      </span>
+      <div class="job-posting-benefits text-sm">
+       <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/8zmuwb93gzlb935fk4ao4z779" data-svg-class-name="job-posting-benefits__icon-svg">
+       </icon>
+       <span class="job-posting-benefits__text">
+        Be an early applicant
+        <!-- -->
+       </span>
+      </div>
+      <time class="job-search-card__listdate--new" datetime="2026-01-07">
+       10 hours ago
+      </time>
+      <!-- -->
+     </div>
+    </div>
+    <!-- -->
+   </div>
+  </li>
+  <li>
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4351570654" data-impression-id="jobs-search-result-4" data-reference-id="Xa9w1O1VMssAtOKV9XxpLA==" data-row="30" data-tracking-id="jxtGmD89kb/U9L2QZcnLNA==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/business-analyst-at-global-technical-talent-an-inc-5000-company-4351570654?position=5&amp;pageNum=2&amp;refId=Xa9w1O1VMssAtOKV9XxpLA%3D%3D&amp;trackingId=jxtGmD89kb%2FU9L2QZcnLNA%3D%3D">
+     <span class="sr-only">
+      Business Analyst
+     </span>
+    </a>
+    <div class="search-entity-media">
+     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C560BAQG7pT-jp2YA8Q/company-logo_100_100/company-logo_100_100/0/1661275894984/global_technical_talent_logo?e=2147483647&amp;v=beta&amp;t=50o8TzpIbM8t2o0rSIKCCf8dSvM0kd7Zwr45ruzpkhU" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+    </div>
+    <div class="base-search-card__info">
+     <h3 class="base-search-card__title">
+      Business Analyst
+     </h3>
+     <h4 class="base-search-card__subtitle">
+      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/global-technical-talent?trk=public_jobs_jserp-result_job-search-card-subtitle">
+       Global Technical Talent, an Inc. 5000 Company
+      </a>
+     </h4>
+     <!-- -->
+     <div class="base-search-card__metadata">
+      <span class="job-search-card__location">
+       Mount Laurel, NJ
+      </span>
+      <div class="job-posting-benefits text-sm">
+       <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/3p1v0uhy7uq0cm5zdvzp4eo18" data-svg-class-name="job-posting-benefits__icon-svg">
+       </icon>
+       <span class="job-posting-benefits__text">
+        Actively Hiring
+        <!-- -->
+       </span>
+      </div>
+      <time class="job-search-card__listdate" datetime="2026-01-06">
+       1 day ago
+      </time>
+      <!-- -->
+     </div>
+    </div>
+    <!-- -->
+   </div>
+  </li>
+  <li>
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4358452138" data-impression-id="jobs-search-result-5" data-reference-id="Xa9w1O1VMssAtOKV9XxpLA==" data-row="31" data-tracking-id="xBG7AHbyplpIhpuxMlaWMQ==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-the-chair-centre-group-4358452138?position=6&amp;pageNum=2&amp;refId=Xa9w1O1VMssAtOKV9XxpLA%3D%3D&amp;trackingId=xBG7AHbyplpIhpuxMlaWMQ%3D%3D">
+     <span class="sr-only">
+      Virtual Data Analyst / Entry Level (Remote)
+     </span>
+    </a>
+    <div class="search-entity-media">
+     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0BAQEYZD0-7sD59A/company-logo_100_100/company-logo_100_100/0/1631309706365?e=2147483647&amp;v=beta&amp;t=ws6bq7A8h8wJ6QsugZd3qq35wzrcqHMamsk6pXL1feI" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+    </div>
+    <div class="base-search-card__info">
+     <h3 class="base-search-card__title">
+      Virtual Data Analyst / Entry Level (Remote)
+     </h3>
+     <h4 class="base-search-card__subtitle">
+      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://ng.linkedin.com/company/the-chair-centre-limited?trk=public_jobs_jserp-result_job-search-card-subtitle">
+       The Chair Centre Group
+      </a>
+     </h4>
+     <!-- -->
+     <div class="base-search-card__metadata">
+      <span class="job-search-card__location">
+       Illinois, United States
+      </span>
+      <div class="job-posting-benefits text-sm">
+       <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/8zmuwb93gzlb935fk4ao4z779" data-svg-class-name="job-posting-benefits__icon-svg">
+       </icon>
+       <span class="job-posting-benefits__text">
+        Be an early applicant
+        <!-- -->
+       </span>
+      </div>
+      <time class="job-search-card__listdate--new" datetime="2026-01-07">
+       10 hours ago
+      </time>
+      <!-- -->
+     </div>
+    </div>
+    <!-- -->
+   </div>
+  </li>
+  <li>
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4358470271" data-impression-id="jobs-search-result-6" data-reference-id="Xa9w1O1VMssAtOKV9XxpLA==" data-row="32" data-tracking-id="w7qb/ypXaKihOF1DMtRV1Q==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-the-chair-centre-group-4358470271?position=7&amp;pageNum=2&amp;refId=Xa9w1O1VMssAtOKV9XxpLA%3D%3D&amp;trackingId=w7qb%2FypXaKihOF1DMtRV1Q%3D%3D">
+     <span class="sr-only">
+      Virtual Data Analyst Full Time (100% Remote)
+     </span>
+    </a>
+    <div class="search-entity-media">
+     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0BAQEYZD0-7sD59A/company-logo_100_100/company-logo_100_100/0/1631309706365?e=2147483647&amp;v=beta&amp;t=ws6bq7A8h8wJ6QsugZd3qq35wzrcqHMamsk6pXL1feI" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+    </div>
+    <div class="base-search-card__info">
+     <h3 class="base-search-card__title">
+      Virtual Data Analyst Full Time (100% Remote)
+     </h3>
+     <h4 class="base-search-card__subtitle">
+      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://ng.linkedin.com/company/the-chair-centre-limited?trk=public_jobs_jserp-result_job-search-card-subtitle">
+       The Chair Centre Group
       </a>
      </h4>
      <!-- -->
@@ -292,8 +279,8 @@
         <!-- -->
        </span>
       </div>
-      <time class="job-search-card__listdate" datetime="2025-11-21">
-       1 day ago
+      <time class="job-search-card__listdate--new" datetime="2026-01-07">
+       17 hours ago
       </time>
       <!-- -->
      </div>
@@ -302,56 +289,22 @@
    </div>
   </li>
   <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4338375651" data-impression-id="jobs-search-result-8" data-reference-id="pscIY+QKJoYGPBRl6MTDag==" data-row="34" data-tracking-id="Ivgx1iuAs8cyZ9RlE8ckBg==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/data-analyst-remote-at-wrlo-accountants-4338375651?position=9&amp;pageNum=2&amp;refId=pscIY%2BQKJoYGPBRl6MTDag%3D%3D&amp;trackingId=Ivgx1iuAs8cyZ9RlE8ckBg%3D%3D">
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4358356334" data-impression-id="jobs-search-result-7" data-reference-id="Xa9w1O1VMssAtOKV9XxpLA==" data-row="33" data-tracking-id="YwcSaJKW3bq6lVp+qlB+nQ==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-the-chair-centre-group-4358356334?position=8&amp;pageNum=2&amp;refId=Xa9w1O1VMssAtOKV9XxpLA%3D%3D&amp;trackingId=YwcSaJKW3bq6lVp%2BqlB%2BnQ%3D%3D">
      <span class="sr-only">
-      Data Analyst Remote
+      Virtual Data Analyst / Entry Level (Remote)
      </span>
     </a>
     <div class="search-entity-media">
-     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0BAQFpQYYfP0wLVQ/company-logo_100_100/company-logo_100_100/0/1651244906204/wrlo_accountants_logo?e=2147483647&amp;v=beta&amp;t=eZ9BPMwgeXEOeJygX951UVKMWDx_Eulw_Nr83ndlB8Y" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0BAQEYZD0-7sD59A/company-logo_100_100/company-logo_100_100/0/1631309706365?e=2147483647&amp;v=beta&amp;t=ws6bq7A8h8wJ6QsugZd3qq35wzrcqHMamsk6pXL1feI" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
     </div>
     <div class="base-search-card__info">
      <h3 class="base-search-card__title">
-      Data Analyst Remote
+      Virtual Data Analyst / Entry Level (Remote)
      </h3>
      <h4 class="base-search-card__subtitle">
-      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://uk.linkedin.com/company/wrlo-accountants?trk=public_jobs_jserp-result_job-search-card-subtitle">
-       WRLO Accountants
-      </a>
-     </h4>
-     <!-- -->
-     <div class="base-search-card__metadata">
-      <span class="job-search-card__location">
-       Texas, United States
-      </span>
-      <!-- -->
-      <time class="job-search-card__listdate" datetime="2025-11-21">
-       1 day ago
-      </time>
-      <!-- -->
-     </div>
-    </div>
-    <!-- -->
-   </div>
-  </li>
-  <li>
-   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4337646348" data-impression-id="jobs-search-result-9" data-reference-id="pscIY+QKJoYGPBRl6MTDag==" data-row="35" data-tracking-id="ft29En7pqzf2M17uE8JFiw==">
-    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/data-analyst-remote-at-wrlo-accountants-4337646348?position=10&amp;pageNum=2&amp;refId=pscIY%2BQKJoYGPBRl6MTDag%3D%3D&amp;trackingId=ft29En7pqzf2M17uE8JFiw%3D%3D">
-     <span class="sr-only">
-      Data Analyst Remote
-     </span>
-    </a>
-    <div class="search-entity-media">
-     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0BAQFpQYYfP0wLVQ/company-logo_100_100/company-logo_100_100/0/1651244906204/wrlo_accountants_logo?e=2147483647&amp;v=beta&amp;t=eZ9BPMwgeXEOeJygX951UVKMWDx_Eulw_Nr83ndlB8Y" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
-    </div>
-    <div class="base-search-card__info">
-     <h3 class="base-search-card__title">
-      Data Analyst Remote
-     </h3>
-     <h4 class="base-search-card__subtitle">
-      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://uk.linkedin.com/company/wrlo-accountants?trk=public_jobs_jserp-result_job-search-card-subtitle">
-       WRLO Accountants
+      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://ng.linkedin.com/company/the-chair-centre-limited?trk=public_jobs_jserp-result_job-search-card-subtitle">
+       The Chair Centre Group
       </a>
      </h4>
      <!-- -->
@@ -367,8 +320,90 @@
         <!-- -->
        </span>
       </div>
-      <time class="job-search-card__listdate" datetime="2025-11-21">
+      <time class="job-search-card__listdate--new" datetime="2026-01-07">
+       17 hours ago
+      </time>
+      <!-- -->
+     </div>
+    </div>
+    <!-- -->
+   </div>
+  </li>
+  <li>
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4358295028" data-impression-id="jobs-search-result-8" data-reference-id="Xa9w1O1VMssAtOKV9XxpLA==" data-row="34" data-tracking-id="Q/TUp3r+kZh7kMO88WuVMQ==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/entry-level-associate-software-developer-at-mitre-4358295028?position=9&amp;pageNum=2&amp;refId=Xa9w1O1VMssAtOKV9XxpLA%3D%3D&amp;trackingId=Q%2FTUp3r%2BkZh7kMO88WuVMQ%3D%3D">
+     <span class="sr-only">
+      Entry Level - Associate Software Developer
+     </span>
+    </a>
+    <div class="search-entity-media">
+     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/D4E0BAQEqnNI5MDmGPw/company-logo_100_100/B4EZfltb3MHcAY-/0/1751905582974/mitre_logo?e=2147483647&amp;v=beta&amp;t=N6ipSW5AY_cqk3LdufO61wqY3yJftV9HCD8RZY3riBw" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+    </div>
+    <div class="base-search-card__info">
+     <h3 class="base-search-card__title">
+      Entry Level - Associate Software Developer
+     </h3>
+     <h4 class="base-search-card__subtitle">
+      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/mitre?trk=public_jobs_jserp-result_job-search-card-subtitle">
+       MITRE
+      </a>
+     </h4>
+     <!-- -->
+     <div class="base-search-card__metadata">
+      <span class="job-search-card__location">
+       McLean, VA
+      </span>
+      <div class="job-posting-benefits text-sm">
+       <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/3p1v0uhy7uq0cm5zdvzp4eo18" data-svg-class-name="job-posting-benefits__icon-svg">
+       </icon>
+       <span class="job-posting-benefits__text">
+        Actively Hiring
+        <!-- -->
+       </span>
+      </div>
+      <time class="job-search-card__listdate" datetime="2026-01-06">
        1 day ago
+      </time>
+      <!-- -->
+     </div>
+    </div>
+    <!-- -->
+   </div>
+  </li>
+  <li>
+   <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4358326684" data-impression-id="jobs-search-result-9" data-reference-id="Xa9w1O1VMssAtOKV9XxpLA==" data-row="35" data-tracking-id="6uOlZFP6O9Cjjx4sWx/hyQ==">
+    <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-the-chair-centre-group-4358326684?position=10&amp;pageNum=2&amp;refId=Xa9w1O1VMssAtOKV9XxpLA%3D%3D&amp;trackingId=6uOlZFP6O9Cjjx4sWx%2FhyQ%3D%3D">
+     <span class="sr-only">
+      Virtual Data Analyst / Entry Level (Remote)
+     </span>
+    </a>
+    <div class="search-entity-media">
+     <img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0BAQEYZD0-7sD59A/company-logo_100_100/company-logo_100_100/0/1631309706365?e=2147483647&amp;v=beta&amp;t=ws6bq7A8h8wJ6QsugZd3qq35wzrcqHMamsk6pXL1feI" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+    </div>
+    <div class="base-search-card__info">
+     <h3 class="base-search-card__title">
+      Virtual Data Analyst / Entry Level (Remote)
+     </h3>
+     <h4 class="base-search-card__subtitle">
+      <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://ng.linkedin.com/company/the-chair-centre-limited?trk=public_jobs_jserp-result_job-search-card-subtitle">
+       The Chair Centre Group
+      </a>
+     </h4>
+     <!-- -->
+     <div class="base-search-card__metadata">
+      <span class="job-search-card__location">
+       Georgia, United States
+      </span>
+      <div class="job-posting-benefits text-sm">
+       <icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/8zmuwb93gzlb935fk4ao4z779" data-svg-class-name="job-posting-benefits__icon-svg">
+       </icon>
+       <span class="job-posting-benefits__text">
+        Be an early applicant
+        <!-- -->
+       </span>
+      </div>
+      <time class="job-search-card__listdate--new" datetime="2026-01-07">
+       17 hours ago
       </time>
       <!-- -->
      </div>

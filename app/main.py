@@ -71,9 +71,15 @@ Parameters:
 returns: list value of stripped string tags
 """
 def strip_tag(list_package: list) -> list:
-    for i in range(len(list_package)):
-        list_package[i] = list_package[i].get_text(strip=True)
-    return list_package
+    stripped_list = []
+    for position in range(len(list_package)):
+        list_package[position] = list_package[position].get_text(strip=True)
+        
+        if list_package[position] != '':
+            stripped_list.append(list_package[position])
+
+
+    return stripped_list
 
 def grab_job_points(soup_object : BeautifulSoup) :
     try:
@@ -192,29 +198,33 @@ first_soup =  link_to_soup(first_job, "debug/first_job_html.txt")
 second_soup = link_to_soup(second_job, "debug/second_job_html.txt")
 
 
+with open("/mnt/c/Users/trioa/Documents/GitHub/Website-test/app/debug/wdyny case.txt", "r") as fp:
+    debug_soup = BeautifulSoup(fp, "lxml")
 
 
 ######## This grabs the job description below 
 
-print("__________________________________________________________")
+print("____________________________job1______________________________")
 #job 1
 
 print(grab_company_name(first_soup))
 print(grab_job_points(first_soup))
+
 print(grab_job_location(first_soup))
 print(grab_date_posted(first_soup))
 print(grab_position(first_soup))
 
-print("__________________________________________________________")
+print("______________________________job2____________________________")
 
 #job 2 
 print(grab_company_name(second_soup))
 print(grab_job_points(second_soup))
+
 print(grab_job_location(second_soup))
 print(grab_date_posted(second_soup))
 print(grab_position(second_soup))
 
-print("__________________________________________________________")
+
 
 print(job_list)
 
